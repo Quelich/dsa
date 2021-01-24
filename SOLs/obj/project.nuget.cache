@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hFoBKqV8qYdYRunhH7vXOw4+bA7HFzVDeWyxqC9tPF1KzmEVgRMFgDAn/5PReUKffXFNGJqqvWEVlNCS8JREeQ==",
+  "dgSpecHash": "xu761oLg93gpO2NwnCB/bmZmXWVSNWLvEbUzvRl2XcWcn4PSV7syEiP0myiM3OOUO5YXhvZB1Myp/XCb3NF5vg==",
   "success": true,
   "projectFilePath": "D:\\GitRepos\\LeetcodeSolutions\\SOLs\\SOLs.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

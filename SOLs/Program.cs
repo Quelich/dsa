@@ -4,12 +4,13 @@ using System.Collections.Generic;
 
 namespace SOLs
 {
-    class Program
+    class Program : Utils
     {
         static void Main(string[] args)
         {
-            var solution = new Reverse();
-            solution.reverse(1534236469);
+            var ip = new Utils();
+            ip.DefangIPaddr("1.1.1.1");
+
         }
     }
 }
