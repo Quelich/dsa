@@ -50,7 +50,7 @@ namespace SOLs
             print.PrintElements(replaced);
             return replaced;
         }
-
         
+
     }
 }
