@@ -8,9 +8,9 @@ namespace SOLs
     {
         static void Main(string[] args)
         {
-            var ip = new Utils();
-            ip.DefangIPaddr("1.1.1.1");
-
+            var arrayUtils = new ArrayUtils();
+            int[] nums = new[] { 2, 5, 1, 3, 4, 7 };
+            arrayUtils.Shuffle(nums, 3);
         }
     }
 }
