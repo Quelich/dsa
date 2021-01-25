@@ -10,7 +10,8 @@ namespace SOLs
         {
             int[] merged = MergeArrays(nums1,nums2);
             Array.Sort(merged);
-            PrintElements(merged);
+            var print = new Print();
+            print.PrintElements(merged);
             if (merged.Length % 2 == 0) // even 
             {
                 int half = merged[merged.Length / 2];

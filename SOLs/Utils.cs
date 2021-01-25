@@ -9,28 +9,7 @@ namespace SOLs
 
     public class Utils
     {
-        public void PrintHelloWorld() => Console.WriteLine("Hello World");
-
-        public void PrintElements(int[] array)
-        {
-            Console.Write("[");
-            foreach (int item in array)
-            {
-                Console.Write(item + " ");
-            }
-
-            Console.Write("]");
-        }
-        public void PrintElements(IList<bool> list)
-        {
-            Console.Write("[");
-            foreach (var item in list)
-            {
-                Console.Write(item + " ");
-            }
-
-            Console.Write("]");
-        }
+        
 
         public string CountAndSay(int n)
         {
@@ -52,7 +31,6 @@ namespace SOLs
                     results.Add(false);
                 }
             }
-            PrintElements(results);
             return results;
         }
         public int[] FrequencySort(int[] nums)
@@ -67,14 +45,12 @@ namespace SOLs
         public string DefangIPaddr(string address)
         {
             string exchange = "[.]";
-            int.Parse(address);
-            foreach (var VARIABLE in address)
-            {
-               
-            }
-
-            return address;
+            string replaced = address.Replace(".", exchange);
+            var print = new Print();
+            print.PrintElements(replaced);
+            return replaced;
         }
 
+        
     }
 }
