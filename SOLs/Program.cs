@@ -9,8 +9,9 @@ namespace SOLs
         static void Main(string[] args)
         {
             var arrayUtils = new ArrayUtils();
-            int[] nums = new[] { 2, 5, 1, 3, 4, 7 };
-            arrayUtils.Shuffle(nums, 3);
+            uint value = 00000000000000000000000000001011;
+           
+            Console.WriteLine(arrayUtils.HammingWeight(value));
         }
     }
 }
