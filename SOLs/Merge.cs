@@ -14,20 +14,5 @@ namespace SOLs
             int[] combined = front.Concat(back).ToArray();
             return combined;
         }
-        //public ListNode MergeTwoLists(ListNode l1, ListNode l2)
-        //{
-        //    ListNode[] lists = new ListNode[] { l1,l2};
-        //    foreach (var VARIABLE in lists)
-        //    {
-             
-                
-        //    }
-        //    return null;
-        //}
-        //public ListNode MergeKLists(ListNode[] lists)
-        //{
-
-        //    return null;
-        //}
     }
 }

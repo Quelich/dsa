@@ -10,8 +10,15 @@ namespace SOLs
         {
             var arrayUtils = new ArrayUtils();
             uint value = 00000000000000000000000000001011;
-           
+            //***************IMPLEMENTATION*********************
+            var performance = System.Diagnostics.Stopwatch.StartNew();
             Console.WriteLine(arrayUtils.HammingWeight(value));
+            performance.Stop();
+            Console.WriteLine("Executed in " + performance.ElapsedMilliseconds.ToString() + " ms");
+            //***************IMPLEMENTATION*********************
+
+
+
         }
     }
 }
