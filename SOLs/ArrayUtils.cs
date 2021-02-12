@@ -1,22 +1,32 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Microsoft.VisualBasic;
+
 
 namespace SOLs
 {
     public class ArrayUtils
     {
 
-        public int[] Shuffle(int[] nums, int n) // 6 , 3
+        public int[] Shuffle(int[] nums, int n) // 6 , 3 ->  0 1 2 3 4 5 [2,5,1,3,4,7]
         {
-            int[] x = new int[nums.Length / 2 ];
-            int[] y = new int[nums.Length / 2];
+
+            // shuffled -> 0 3 1 4 2 5 -> [2,3,5,4,1,7]
+            int[] x = new int[n];
+            int[] y = new int[nums.Length];
             for (int i = 0; i < n; i++)
             {
-                
+                x[i] = nums[i];
             }
-            return null;
+            int j = 0;
+            for (int i = n+1; i < nums.Length; i++)
+            {
+                y[i] = nums[i];
+            }
+            Print print = new Print();
+            print.PrintElements(x);
+            print.PrintElements(y);
+            return null; 
         }
 
         public int HammingWeight(uint n)
@@ -50,6 +60,23 @@ namespace SOLs
             }
             double resultOdd = merged[(merged.Length - 1) / 2];
             return resultOdd;
+        }
+        public int[] sortIncrement(int[] array)
+        {
+            int temp;
+            for (int i = 1; i < array.Length; i++)
+            {
+                for (int j = i; j > 0; j--)
+                {
+                    if (array[j] < array[j - 1])
+                    {
+                        temp = array[j];
+                        array[j] = array[j - 1];
+                        array[j - 1] = temp;
+                    }
+                }
+            }
+            return array;
         }
     }
 }
