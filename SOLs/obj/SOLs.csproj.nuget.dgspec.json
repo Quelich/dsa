@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitRepos\\LeetcodeSolutions\\SOLs\\SOLs.csproj": {}
+    "d:\\GitRepos\\LeetcodeSolutions\\SOLs\\SOLs.csproj": {}
   },
   "projects": {
-    "D:\\GitRepos\\LeetcodeSolutions\\SOLs\\SOLs.csproj": {
+    "d:\\GitRepos\\LeetcodeSolutions\\SOLs\\SOLs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitRepos\\LeetcodeSolutions\\SOLs\\SOLs.csproj",
+        "projectUniqueName": "d:\\GitRepos\\LeetcodeSolutions\\SOLs\\SOLs.csproj",
         "projectName": "SOLs",
-        "projectPath": "D:\\GitRepos\\LeetcodeSolutions\\SOLs\\SOLs.csproj",
+        "projectPath": "d:\\GitRepos\\LeetcodeSolutions\\SOLs\\SOLs.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\GitRepos\\LeetcodeSolutions\\SOLs\\obj\\",
+        "outputPath": "d:\\GitRepos\\LeetcodeSolutions\\SOLs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }
