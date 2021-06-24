@@ -4,7 +4,6 @@ D:\GitRepos\LeetcodeSolutions\SOLs\bin\Debug\netcoreapp3.1\SOLs.runtimeconfig.js
 D:\GitRepos\LeetcodeSolutions\SOLs\bin\Debug\netcoreapp3.1\SOLs.runtimeconfig.dev.json
 D:\GitRepos\LeetcodeSolutions\SOLs\bin\Debug\netcoreapp3.1\SOLs.dll
 D:\GitRepos\LeetcodeSolutions\SOLs\bin\Debug\netcoreapp3.1\SOLs.pdb
-D:\GitRepos\LeetcodeSolutions\SOLs\obj\Debug\netcoreapp3.1\SOLs.csprojAssemblyReference.cache
 D:\GitRepos\LeetcodeSolutions\SOLs\obj\Debug\netcoreapp3.1\SOLs.AssemblyInfoInputs.cache
 D:\GitRepos\LeetcodeSolutions\SOLs\obj\Debug\netcoreapp3.1\SOLs.AssemblyInfo.cs
 D:\GitRepos\LeetcodeSolutions\SOLs\obj\Debug\netcoreapp3.1\SOLs.csproj.CoreCompileInputs.cache
@@ -13,3 +12,4 @@ D:\GitRepos\LeetcodeSolutions\SOLs\obj\Debug\netcoreapp3.1\SOLs.pdb
 D:\GitRepos\LeetcodeSolutions\SOLs\obj\Debug\netcoreapp3.1\SOLs.genruntimeconfig.cache
 D:\GitRepos\LeetcodeSolutions\SOLs\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\GitRepos\LeetcodeSolutions\SOLs\obj\Debug\netcoreapp3.1\SOLs.csproj.CopyComplete
+D:\GitRepos\LeetcodeSolutions\SOLs\obj\Debug\netcoreapp3.1\SOLs.csproj.AssemblyReference.cache
