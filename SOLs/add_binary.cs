@@ -5,10 +5,7 @@ namespace SOLs
 {
     public class add_binary
     {
-        private static void Main(string[] args)
-        {
-            
-        }
+        
         public string AddBinary(string a, string b)
         {
             return null;
