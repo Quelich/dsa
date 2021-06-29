@@ -5,36 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61380876-b965-4ebe-b865-a67b1040587c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/IncrementByOne.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MergeSortedLists.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Permutations.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RotateImage.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WaterContainer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnitTests/Tests/.idea/.idea.Tests/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnitTests/Tests/.idea/.idea.Tests/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnitTests/Tests/.idea/.idea.Tests/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnitTests/Tests/.idea/.idea.Tests/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnitTests/Tests/.idea/.idea.Tests/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnitTests/Tests/.idea/.idea.Tests/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnitTests/Tests/Tests.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnitTests/Tests/Tests.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnitTests/Tests/UnitTest1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnitTests/Tests/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnitTests/Tests/obj/Debug/net5.0/Tests.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnitTests/Tests/obj/Debug/net5.0/Tests.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnitTests/Tests/obj/Debug/net5.0/Tests.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnitTests/Tests/obj/Debug/net5.0/Tests.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnitTests/Tests/obj/Debug/net5.0/Tests.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnitTests/Tests/obj/Tests.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnitTests/Tests/obj/Tests.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnitTests/Tests/obj/Tests.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnitTests/Tests/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnitTests/Tests/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnitTests/Tests/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnitTests/Tests/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaximumSubarray.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add_binary.cs" beforeDir="false" afterPath="$PROJECT_DIR$/add_binary.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add_two_numbers.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.CoreCompileInputs.cache" afterDir="false" />
@@ -58,7 +30,6 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/obj/Release/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -74,6 +45,7 @@
       <option value="$PROJECT_DIR$/RotateImage.cs" />
       <option value="$PROJECT_DIR$/MergeSortedLists.cs" />
       <option value="$PROJECT_DIR$/RemoveDuplication.cs" />
+      <option value="$PROJECT_DIR$/MaximumSubarray.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uOKTWnYHuFVw7wjz3juoEqSNcM" />
@@ -132,6 +104,8 @@
       <workItem from="1624633977055" duration="8394000" />
       <workItem from="1624659708606" duration="820000" />
       <workItem from="1624711926632" duration="10546000" />
+      <workItem from="1624725831844" duration="109000" />
+      <workItem from="1624903383632" duration="4394000" />
     </task>
     <task id="LOCAL-00001" summary="added solutions">
       <created>1624540224161</created>
@@ -140,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624540224161</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added solutions - and discontinued solution templates (will complete later :D)">
+      <created>1624725893013</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624725893013</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +145,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="added solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="added solutions" />
+    <MESSAGE value="added solutions - and discontinued solution templates (will complete later :D)" />
+    <option name="LAST_COMMIT_MESSAGE" value="added solutions - and discontinued solution templates (will complete later :D)" />
   </component>
 </project>
