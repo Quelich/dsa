@@ -1,0 +1,6 @@
+D:\GitRepos\LeetcodeSolutions\Quelich.Algorithmus\Quelich.Algorithmus\bin\Debug\Quelich.Algorithmus.exe
+D:\GitRepos\LeetcodeSolutions\Quelich.Algorithmus\Quelich.Algorithmus\bin\Debug\Quelich.Algorithmus.pdb
+D:\GitRepos\LeetcodeSolutions\Quelich.Algorithmus\Quelich.Algorithmus\obj\Debug\Quelich.Algorithmus.csprojAssemblyReference.cache
+D:\GitRepos\LeetcodeSolutions\Quelich.Algorithmus\Quelich.Algorithmus\obj\Debug\Quelich.Algorithmus.csproj.CoreCompileInputs.cache
+D:\GitRepos\LeetcodeSolutions\Quelich.Algorithmus\Quelich.Algorithmus\obj\Debug\Quelich.Algorithmus.exe
+D:\GitRepos\LeetcodeSolutions\Quelich.Algorithmus\Quelich.Algorithmus\obj\Debug\Quelich.Algorithmus.pdb

@@ -5,34 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61380876-b965-4ebe-b865-a67b1040587c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/.idea/.idea.Quelich.Algorithmus.Test/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/.idea/.idea.Quelich.Algorithmus.Test/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/.idea/.idea.Quelich.Algorithmus.Test/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/.idea/.idea.Quelich.Algorithmus.Test/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/.idea/.idea.Quelich.Algorithmus.Test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/.idea/.idea.Quelich.Algorithmus.Test/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/Quelich.Algorithmus.Test.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/Quelich.Algorithmus.Test.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/Quelich.Algorithmus.Test.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/UnitTest1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/Debug/net5.0/Quelich.Algorithmus.Test.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/Debug/net5.0/Quelich.Algorithmus.Test.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/Debug/net5.0/Quelich.Algorithmus.Test.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/Debug/net5.0/Quelich.Algorithmus.Test.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/Debug/net5.0/Quelich.Algorithmus.Test.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/Quelich.Algorithmus.Test.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/Quelich.Algorithmus.Test.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/Quelich.Algorithmus.Test.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/euclid_algorithm.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quelich.Algorithmus/Quelich.Algorithmus.Test/.idea/.idea.Quelich.Algorithmus.Test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/.idea/.idea.Quelich.Algorithmus.Test/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/.idea/.idea.Quelich.Algorithmus.Test/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/.idea/.idea.Quelich.Algorithmus.Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/.idea/.idea.Quelich.Algorithmus.Test/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/.idea/.idea.Quelich.Algorithmus.Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/.idea/.idea.Quelich.Algorithmus/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/.idea/.idea.Quelich.Algorithmus/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/.idea/.idea.Quelich.Algorithmus/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/.idea/.idea.Quelich.Algorithmus/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/.idea/.idea.Quelich.Algorithmus/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/Models/euclid_algorithm.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoveBalls.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QueryCirclePoint.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SubrectangleQueries.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/.idea/.idea.Quelich.Algorithmus.dir/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/.idea/.idea.Quelich.Algorithmus.dir/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/.idea/.idea.Quelich.Algorithmus.dir/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/.idea/.idea.Quelich.Algorithmus.dir/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/.idea/.idea.Quelich.Algorithmus.dir/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/.idea/.idea.Quelich.Algorithmus.Test/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/.idea/.idea.Quelich.Algorithmus.Test/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/.idea/.idea.Quelich.Algorithmus.Test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/.idea/.idea.Quelich.Algorithmus.Test/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/.idea/.idea.Quelich.Algorithmus.Test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/.idea/.idea.Quelich.Algorithmus.Test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/Quelich.Algorithmus.Test.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/Quelich.Algorithmus.Test.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/Quelich.Algorithmus.Test.sln.DotSettings.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/UnitTest1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/Debug/net5.0/Quelich.Algorithmus.Test.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/Debug/net5.0/Quelich.Algorithmus.Test.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/Debug/net5.0/Quelich.Algorithmus.Test.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/Debug/net5.0/Quelich.Algorithmus.Test.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/Debug/net5.0/Quelich.Algorithmus.Test.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/Quelich.Algorithmus.Test.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/Quelich.Algorithmus.Test.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/Quelich.Algorithmus.Test.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus.Test/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/euclid_algorithm.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MaximumSubarray.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MaximumSubarray.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quelich.Algorithmus/euclid_algorithm.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MaximumHealth.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.CoreCompileInputs.cache" afterDir="false" />
@@ -73,6 +90,9 @@
       <option value="$PROJECT_DIR$/RemoveDuplication.cs" />
       <option value="$PROJECT_DIR$/MaximumSubarray.cs" />
       <option value="$PROJECT_DIR$/Quelich.Algorithmus/euclid_algorithm.cs" />
+      <option value="$PROJECT_DIR$/SubrectangleQueries.cs" />
+      <option value="$PROJECT_DIR$/QueryCirclePoint.cs" />
+      <option value="$PROJECT_DIR$/MoveBalls.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uOKTWnYHuFVw7wjz3juoEqSNcM" />
@@ -134,6 +154,9 @@
       <workItem from="1624725831844" duration="109000" />
       <workItem from="1624903383632" duration="4394000" />
       <workItem from="1624968935516" duration="1575000" />
+      <workItem from="1625173464602" duration="595000" />
+      <workItem from="1625232237771" duration="1986000" />
+      <workItem from="1625261067110" duration="4170000" />
     </task>
     <task id="LOCAL-00001" summary="added solutions">
       <created>1624540224161</created>
