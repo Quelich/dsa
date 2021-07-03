@@ -7,11 +7,11 @@ namespace SOLs
     //Leetcode Problems: 1769
     public class MoveBalls
     {
-        public static void Main(string[] args)
-        {
-            var boxes = "110";
-            MinOperations(boxes);
-        }
+        // public static void Main(string[] args)
+        // {
+        //     var boxes = "110";
+        //     MinOperations(boxes);
+        // }
         public static int[] MinOperations(string boxes)
         {
             var ballLocations = new List<int>();
@@ -31,11 +31,6 @@ namespace SOLs
                 var sum = ballLocations.Sum(location => Math.Abs(location - i));
                 answer[i] = sum;
             }
-
-            Console.WriteLine("Ball locations: ");
-            Print(ballLocations);
-            Console.WriteLine("\nAnswer: ");
-            Print(answer);
             return answer;
         }
         private static void Print(int[] array)
