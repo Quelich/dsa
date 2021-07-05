@@ -10,6 +10,7 @@ namespace Quelich.Algorithmus.Models
 
         public static int Solution(int m, int n)
         {
+            
             var remainder = -1;
             var stepCounter = 1;
             while (remainder != 0)

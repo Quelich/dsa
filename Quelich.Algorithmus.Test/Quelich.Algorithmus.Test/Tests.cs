@@ -1,6 +1,6 @@
 ﻿using System;
 using NUnit.Framework;
-
+using Quelich.Algorithmus.Models;
 namespace Quelich.Algorithmus.Test
 {
     [TestFixture]
@@ -9,7 +9,8 @@ namespace Quelich.Algorithmus.Test
         [Test]
         public void Test1()
         {
-            Assert.True(true);
+            var euclid = euclid_algorithm();
+            Assert.AreEqual(euclid.Solution())
         }
     }
 }
