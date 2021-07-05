@@ -5,12 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61380876-b965-4ebe-b865-a67b1040587c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NumberToZero.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RunLengthEncoded.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShuffleString.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SubtractProductInteger.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BalancedStrings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree/IncreasingBST.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree/LeftLeaves.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree/MaximumDepth.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree/MergeBinaryTrees.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree/RangeBST.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree/TreeNode.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoinChange.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DeciBinary.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecodeXORed.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoalParser.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GroupSize.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MinimumMovesEqualArray.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlaceFlowers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TargetArray.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MoveBalls.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoveBalls.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayUtils.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayUtils.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RunLengthEncoded.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RunLengthEncoded.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.CoreCompileInputs.cache" afterDir="false" />
@@ -60,6 +72,24 @@
       <option value="$PROJECT_DIR$/SubtractProductInteger.cs" />
       <option value="$PROJECT_DIR$/NumberToZero.cs" />
       <option value="$PROJECT_DIR$/RunLengthEncoded.cs" />
+      <option value="$PROJECT_DIR$/DeciBinary.cs" />
+      <option value="$PROJECT_DIR$/ArrayUtils.cs" />
+      <option value="$PROJECT_DIR$/DecodeXORed.cs" />
+      <option value="$PROJECT_DIR$/DeepestSum.cs" />
+      <option value="$PROJECT_DIR$/TargetArray.cs" />
+      <option value="$PROJECT_DIR$/CoinChange.cs" />
+      <option value="$PROJECT_DIR$/GoalParser.cs" />
+      <option value="$PROJECT_DIR$/GroupSize.cs" />
+      <option value="$PROJECT_DIR$/CountItems.cs" />
+      <option value="$PROJECT_DIR$/BinaryTree/TreeNode.cs" />
+      <option value="$PROJECT_DIR$/BinaryTree/MergeBinaryTrees.cs" />
+      <option value="$PROJECT_DIR$/BinaryTree/RangeBST.cs" />
+      <option value="$PROJECT_DIR$/BinaryTree/IncreasingBST.cs" />
+      <option value="$PROJECT_DIR$/BinaryTree/MaximumDepth.cs" />
+      <option value="$PROJECT_DIR$/BalancedStrings.cs" />
+      <option value="$PROJECT_DIR$/PlaceFlowers.cs" />
+      <option value="$PROJECT_DIR$/BinaryTree/LeftLeaves.cs" />
+      <option value="$PROJECT_DIR$/MinimumMovesEqualArray.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uOKTWnYHuFVw7wjz3juoEqSNcM" />
@@ -67,14 +97,15 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3938245" />
-    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.037378114" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.39396286" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0371517" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -124,7 +155,10 @@
       <workItem from="1625173464602" duration="595000" />
       <workItem from="1625232237771" duration="1986000" />
       <workItem from="1625261067110" duration="5351000" />
-      <workItem from="1625336486852" duration="2982000" />
+      <workItem from="1625336486852" duration="5014000" />
+      <workItem from="1625402893699" duration="10858000" />
+      <workItem from="1625430374480" duration="4565000" />
+      <workItem from="1625505327241" duration="9926000" />
     </task>
     <task id="LOCAL-00001" summary="added solutions">
       <created>1624540224161</created>
@@ -154,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625265587877</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added more solutions">
+      <created>1625341530921</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1625341530921</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -7,6 +7,13 @@ namespace SOLs
 {
     public class ArrayUtils
     {
+        public void Print<T>(IEnumerable<T> array)
+        {
+            foreach (var x in array)
+            {
+                Console.Write(x + " ");
+            }
+        }
 
         public int[] Shuffle(int[] nums, int n) // 6 , 3 ->  0 1 2 3 4 5 [2,5,1,3,4,7]
         {
