@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61380876-b965-4ebe-b865-a67b1040587c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ListNode.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PermutationSequence.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlusOnee.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/Tests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/Tests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/Models/euclid_algorithm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/Models/euclid_algorithm.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree/Node.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClumsyFactorial.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CombinationIterator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountItem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IPO.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QueryPermutation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RemoveDuplicates.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tempCodeRunnerFile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MergeSortedLists.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSortedLists.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree/MaximumDepth.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/MaximumDepth.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PermutationSequence.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PermutationSequence.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SubrectangleQueries.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SubrectangleQueries.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.CoreCompileInputs.cache" afterDir="false" />
@@ -36,6 +41,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/Properties/AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/32259D52-8D68-43AA-9BFD-22F6468F5E1E/2F/DataTable.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/obj/Release/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/Models/euclid_algorithm.cs" root0="SKIP_HIGHLIGHTING" />
@@ -55,7 +61,6 @@
       <option value="$PROJECT_DIR$/RemoveDuplication.cs" />
       <option value="$PROJECT_DIR$/MaximumSubarray.cs" />
       <option value="$PROJECT_DIR$/Quelich.Algorithmus/euclid_algorithm.cs" />
-      <option value="$PROJECT_DIR$/SubrectangleQueries.cs" />
       <option value="$PROJECT_DIR$/QueryCirclePoint.cs" />
       <option value="$PROJECT_DIR$/MoveBalls.cs" />
       <option value="$PROJECT_DIR$/ShuffleString.cs" />
@@ -74,7 +79,6 @@
       <option value="$PROJECT_DIR$/BinaryTree/TreeNode.cs" />
       <option value="$PROJECT_DIR$/BinaryTree/RangeBST.cs" />
       <option value="$PROJECT_DIR$/BinaryTree/IncreasingBST.cs" />
-      <option value="$PROJECT_DIR$/BinaryTree/MaximumDepth.cs" />
       <option value="$PROJECT_DIR$/BalancedStrings.cs" />
       <option value="$PROJECT_DIR$/PlaceFlowers.cs" />
       <option value="$PROJECT_DIR$/BinaryTree/LeftLeaves.cs" />
@@ -86,6 +90,16 @@
       <option value="$PROJECT_DIR$/MergeSortedLists.cs" />
       <option value="$PROJECT_DIR$/PlusOnee.cs" />
       <option value="$PROJECT_DIR$/PermutationSequence.cs" />
+      <option value="$PROJECT_DIR$/ClumsyFactorial.cs" />
+      <option value="$PROJECT_DIR$/IPO.cs" />
+      <option value="$PROJECT_DIR$/BinaryTree/Node.cs" />
+      <option value="$PROJECT_DIR$/BinaryTree/MaximumDepth.cs" />
+      <option value="$PROJECT_DIR$/SubrectangleQueries.cs" />
+      <option value="$PROJECT_DIR$/RemoveDuplicates.cs" />
+      <option value="$PROJECT_DIR$/CombinationIterator.cs" />
+      <option value="$PROJECT_DIR$/SortSentence.cs" />
+      <option value="$PROJECT_DIR$/QueryPermutation.cs" />
+      <option value="$PROJECT_DIR$/CountItem.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uOKTWnYHuFVw7wjz3juoEqSNcM" />
@@ -100,8 +114,8 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.39355743" />
-    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.067226894" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.39349112" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.07100592" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -156,7 +170,10 @@
       <workItem from="1625430374480" duration="4565000" />
       <workItem from="1625505327241" duration="10394000" />
       <workItem from="1625518805436" duration="296000" />
-      <workItem from="1625522078829" duration="5627000" />
+      <workItem from="1625522078829" duration="6263000" />
+      <workItem from="1625577435117" duration="14251000" />
+      <workItem from="1625863847667" duration="4391000" />
+      <workItem from="1625870331199" duration="1986000" />
     </task>
     <task id="LOCAL-00001" summary="added solutions">
       <created>1624540224161</created>
@@ -200,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625518575456</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="solutions and failures">
+      <created>1625527793045</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1625527793045</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +252,7 @@
     <MESSAGE value="added solutions&#10;added Quelich.Algorithmus in order to query explicit algorithms for Leetcode challenges" />
     <MESSAGE value="added more solutions" />
     <MESSAGE value="added more solutions &#10;and some failures :\" />
-    <option name="LAST_COMMIT_MESSAGE" value="added more solutions &#10;and some failures :\" />
+    <MESSAGE value="solutions and failures" />
+    <option name="LAST_COMMIT_MESSAGE" value="solutions and failures" />
   </component>
 </project>

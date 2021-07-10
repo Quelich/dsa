@@ -1,19 +1,15 @@
 namespace SOLs.BinaryTree
 {
-    //INCOMPLETE
+    // INCOMPLETE
     public class MaximumDepth
     {
-        public int MaxDepth(TreeNode root) {
+        public int MaxDepth(Node root)
+        {
+            if(root == null) return 0;
             var counter = 0;
-            if (root.left != null)
+            if (MaxDepth(root) != null)
             {
-                counter++;
-                counter += MaxDepth(root.left);
-            }
-            else if (root.right != null)
-            {
-                counter++;
-                counter += MaxDepth(root.right);
+                
             }
             return counter;
         }

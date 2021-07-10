@@ -50,19 +50,19 @@ namespace SOLs
             }
     }
 
-    class Program
-    {
-        // public static void Main(string[] args)
-        // {
-        //     int[][] jaggedArray = new int[4][];
-        //     jaggedArray[0] = new int[] { 1,2,1};
-        //     jaggedArray[1] = new int[] { 4,3,4};
-        //     jaggedArray[2] = new int[] { 3,2,1};
-        //     jaggedArray[3] = new int[] { 1,1,1};
-        //     SubrectangleQueries subrectangleQueries = new SubrectangleQueries(jaggedArray);
-        //     Console.WriteLine(subrectangleQueries.GetValue(0,2));
-        //     subrectangleQueries.UpdateSubrectangle(0, 0, 3, 2, 5);
-        //
-        // }
-    }
+    // class Program
+    // {
+    //     // public static void Main(string[] args)
+    //     // {
+    //     //     int[][] jaggedArray = new int[4][];
+    //     //     jaggedArray[0] = new int[] { 1,2,1};
+    //     //     jaggedArray[1] = new int[] { 4,3,4};
+    //     //     jaggedArray[2] = new int[] { 3,2,1};
+    //     //     jaggedArray[3] = new int[] { 1,1,1};
+    //     //     SubrectangleQueries subrectangleQueries = new SubrectangleQueries(jaggedArray);
+    //     //     Console.WriteLine(subrectangleQueries.GetValue(0,2));
+    //     //     subrectangleQueries.UpdateSubrectangle(0, 0, 3, 2, 5);
+    //     //
+    //     // }
+    // }
 }

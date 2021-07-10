@@ -8,8 +8,7 @@ namespace SOLs
     public class PermutationSequence
     {
         private static readonly List<string> Permutations = new List<string>();
-        private static void permute(string str,
-            int l, int r)
+        private static void permute(string str, int l, int r)
         {
             if (l == r)
             {
@@ -46,10 +45,10 @@ namespace SOLs
             return  Permutations[k-1];
         }
 
-        public static void Main(string[] args)
-        {
-            
-            Console.WriteLine(GetPermutation(4,9));
-        }
+        // public static void Main(string[] args)
+        // {
+        //     
+        //     Console.WriteLine(GetPermutation(4,9));
+        // }
     }
 }
