@@ -2,6 +2,7 @@ using System.Collections.Generic;
 
 namespace SOLs
 {
+   
     public class CountItem
     {
         public int CountMatches(IList<IList<string>> items, string ruleKey, string ruleValue) {

@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61380876-b965-4ebe-b865-a67b1040587c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BinaryTree/Node.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClumsyFactorial.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CombinationIterator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CountItem.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IPO.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QueryPermutation.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RemoveDuplicates.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tempCodeRunnerFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzzFunction.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchInsertPosition.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree/MaximumDepth.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/MaximumDepth.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PermutationSequence.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PermutationSequence.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SubrectangleQueries.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SubrectangleQueries.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CountItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CountItem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QueryPermutation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/QueryPermutation.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.CoreCompileInputs.cache" afterDir="false" />
@@ -49,8 +42,6 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/AddTwoNumbers.cs" />
-      <option value="$PROJECT_DIR$/add_two_numbers.cs" />
       <option value="$PROJECT_DIR$/StringAddition.cs" />
       <option value="$PROJECT_DIR$/ArrayFormInt.cs" />
       <option value="$PROJECT_DIR$/add_binary.cs" />
@@ -99,7 +90,9 @@
       <option value="$PROJECT_DIR$/CombinationIterator.cs" />
       <option value="$PROJECT_DIR$/SortSentence.cs" />
       <option value="$PROJECT_DIR$/QueryPermutation.cs" />
+      <option value="$PROJECT_DIR$/FizzBuzzFunction.cs" />
       <option value="$PROJECT_DIR$/CountItem.cs" />
+      <option value="$PROJECT_DIR$/SearchInsertPosition.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uOKTWnYHuFVw7wjz3juoEqSNcM" />
@@ -174,6 +167,8 @@
       <workItem from="1625577435117" duration="14251000" />
       <workItem from="1625863847667" duration="4391000" />
       <workItem from="1625870331199" duration="1986000" />
+      <workItem from="1625939092383" duration="342000" />
+      <workItem from="1625943705891" duration="4425000" />
     </task>
     <task id="LOCAL-00001" summary="added solutions">
       <created>1624540224161</created>
@@ -224,7 +219,21 @@
       <option name="project" value="LOCAL" />
       <updated>1625527793045</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added sols">
+      <created>1625939345608</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1625939345608</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update workspace.xml">
+      <created>1625939404645</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1625939404645</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,6 +263,7 @@
     <MESSAGE value="added more solutions &#10;and some failures :\" />
     <MESSAGE value="solutions and failures" />
     <MESSAGE value="added sols" />
-    <option name="LAST_COMMIT_MESSAGE" value="added sols" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
 </project>
