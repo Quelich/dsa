@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61380876-b965-4ebe-b865-a67b1040587c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FizzBuzzFunction.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SearchInsertPosition.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree/MinimumDepth.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree/PathSum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ValidAnagram.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CountItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CountItem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QueryPermutation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/QueryPermutation.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree/LeftLeaves.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree/MaximumDepth.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/MaximumDepth.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree/RangeBST.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchInsertPosition.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SearchInsertPosition.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.CoreCompileInputs.cache" afterDir="false" />
@@ -42,14 +45,6 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/StringAddition.cs" />
-      <option value="$PROJECT_DIR$/ArrayFormInt.cs" />
-      <option value="$PROJECT_DIR$/add_binary.cs" />
-      <option value="$PROJECT_DIR$/WaterContainer.cs" />
-      <option value="$PROJECT_DIR$/IncrementByOne.cs" />
-      <option value="$PROJECT_DIR$/Permutations.cs" />
-      <option value="$PROJECT_DIR$/RotateImage.cs" />
-      <option value="$PROJECT_DIR$/RemoveDuplication.cs" />
       <option value="$PROJECT_DIR$/MaximumSubarray.cs" />
       <option value="$PROJECT_DIR$/Quelich.Algorithmus/euclid_algorithm.cs" />
       <option value="$PROJECT_DIR$/QueryCirclePoint.cs" />
@@ -84,7 +79,6 @@
       <option value="$PROJECT_DIR$/ClumsyFactorial.cs" />
       <option value="$PROJECT_DIR$/IPO.cs" />
       <option value="$PROJECT_DIR$/BinaryTree/Node.cs" />
-      <option value="$PROJECT_DIR$/BinaryTree/MaximumDepth.cs" />
       <option value="$PROJECT_DIR$/SubrectangleQueries.cs" />
       <option value="$PROJECT_DIR$/RemoveDuplicates.cs" />
       <option value="$PROJECT_DIR$/CombinationIterator.cs" />
@@ -93,6 +87,15 @@
       <option value="$PROJECT_DIR$/FizzBuzzFunction.cs" />
       <option value="$PROJECT_DIR$/CountItem.cs" />
       <option value="$PROJECT_DIR$/SearchInsertPosition.cs" />
+      <option value="$PROJECT_DIR$/LongestPalindromicSubsequent.cs" />
+      <option value="$PROJECT_DIR$/IsValidSquare.cs" />
+      <option value="$PROJECT_DIR$/BinaryTree/MaximumDepth.cs" />
+      <option value="$PROJECT_DIR$/BinaryTree/PathSum.cs" />
+      <option value="$PROJECT_DIR$/BinaryTree/MinimumDepth.cs" />
+      <option value="$PROJECT_DIR$/BinaryTree/PathSum2.cs" />
+      <option value="$PROJECT_DIR$/BinaryTree/Flatten.cs" />
+      <option value="$PROJECT_DIR$/StringToInt.cs" />
+      <option value="$PROJECT_DIR$/ValidAnagram.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uOKTWnYHuFVw7wjz3juoEqSNcM" />
@@ -107,8 +110,8 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.39349112" />
-    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.07100592" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.39328277" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.07096425" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -168,7 +171,9 @@
       <workItem from="1625863847667" duration="4391000" />
       <workItem from="1625870331199" duration="1986000" />
       <workItem from="1625939092383" duration="342000" />
-      <workItem from="1625943705891" duration="4425000" />
+      <workItem from="1625943705891" duration="4686000" />
+      <workItem from="1626092643155" duration="3244000" />
+      <workItem from="1626102528533" duration="9053000" />
     </task>
     <task id="LOCAL-00001" summary="added solutions">
       <created>1624540224161</created>
@@ -233,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625939404645</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="added three two more solutions">
+      <created>1625953581256</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1625953581256</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,6 +276,7 @@
     <MESSAGE value="solutions and failures" />
     <MESSAGE value="added sols" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="added three two more solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="added three two more solutions" />
   </component>
 </project>
