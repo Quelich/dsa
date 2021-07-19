@@ -5,19 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61380876-b965-4ebe-b865-a67b1040587c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BinaryTree/MinimumDepth.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryTree/PathSum.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValidAnagram.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/Models/QuickFindUF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BrokenLetters.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/MyLinkedList.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MinRungs.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mongo_playground.mongodb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree/LeftLeaves.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree/MaximumDepth.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/MaximumDepth.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree/RangeBST.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchInsertPosition.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SearchInsertPosition.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnagramGrouping.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/SOLs.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/SOLs.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +52,6 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/MaximumSubarray.cs" />
-      <option value="$PROJECT_DIR$/Quelich.Algorithmus/euclid_algorithm.cs" />
-      <option value="$PROJECT_DIR$/QueryCirclePoint.cs" />
-      <option value="$PROJECT_DIR$/MoveBalls.cs" />
-      <option value="$PROJECT_DIR$/ShuffleString.cs" />
-      <option value="$PROJECT_DIR$/SubtractProductInteger.cs" />
-      <option value="$PROJECT_DIR$/NumberToZero.cs" />
-      <option value="$PROJECT_DIR$/RunLengthEncoded.cs" />
       <option value="$PROJECT_DIR$/DeciBinary.cs" />
       <option value="$PROJECT_DIR$/ArrayUtils.cs" />
       <option value="$PROJECT_DIR$/DecodeXORed.cs" />
@@ -96,6 +95,14 @@
       <option value="$PROJECT_DIR$/BinaryTree/Flatten.cs" />
       <option value="$PROJECT_DIR$/StringToInt.cs" />
       <option value="$PROJECT_DIR$/ValidAnagram.cs" />
+      <option value="$PROJECT_DIR$/AnagramGrouping.cs" />
+      <option value="$PROJECT_DIR$/RemovableMaxima.cs" />
+      <option value="$PROJECT_DIR$/SumTreeNodes.cs" />
+      <option value="$PROJECT_DIR$/MaxProfit.cs" />
+      <option value="$PROJECT_DIR$/MinRungs.cs" />
+      <option value="$PROJECT_DIR$/../LinkedList/MyLinkedList.cs" />
+      <option value="$PROJECT_DIR$/BrokenLetters.cs" />
+      <option value="$PROJECT_DIR$/LinkedList/MyLinkedList.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uOKTWnYHuFVw7wjz3juoEqSNcM" />
@@ -110,11 +117,12 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.39328277" />
-    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.07096425" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.39318886" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.071207434" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowDebug.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="XThreadsFramesViewSplitterKey" value="0.4448819" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -173,7 +181,11 @@
       <workItem from="1625939092383" duration="342000" />
       <workItem from="1625943705891" duration="4686000" />
       <workItem from="1626092643155" duration="3244000" />
-      <workItem from="1626102528533" duration="9053000" />
+      <workItem from="1626102528533" duration="20288000" />
+      <workItem from="1626178151596" duration="5294000" />
+      <workItem from="1626297663677" duration="708000" />
+      <workItem from="1626622607384" duration="3062000" />
+      <workItem from="1626688062945" duration="6116000" />
     </task>
     <task id="LOCAL-00001" summary="added solutions">
       <created>1624540224161</created>
@@ -245,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625953581256</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added solutions">
+      <created>1626121504590</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1626121504590</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,7 +287,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="added solutions" />
     <MESSAGE value="added solutions - and discontinued solution templates (will complete later :D)" />
     <MESSAGE value="added solutions&#10;added Quelich.Algorithmus in order to query explicit algorithms for Leetcode challenges" />
     <MESSAGE value="added more solutions" />
@@ -277,6 +295,7 @@
     <MESSAGE value="added sols" />
     <MESSAGE value="update workspace.xml" />
     <MESSAGE value="added three two more solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="added three two more solutions" />
+    <MESSAGE value="added solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="added solutions" />
   </component>
 </project>
