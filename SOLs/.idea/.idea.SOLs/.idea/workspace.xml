@@ -4,12 +4,9 @@
     <projectFile>SOLs.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61380876-b965-4ebe-b865-a67b1040587c" name="Default Changelist" comment="added linkedlist design and some solutions">
-      <change afterPath="$PROJECT_DIR$/LinkedList/FindCycle.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/IntersectionNode.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/RemoveNode.cs" afterDir="false" />
+    <list default="true" id="61380876-b965-4ebe-b865-a67b1040587c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListNode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/ListNode.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/RemoveNode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/RemoveNode.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +34,6 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/DeepestSum.cs" />
-      <option value="$PROJECT_DIR$/TargetArray.cs" />
       <option value="$PROJECT_DIR$/CoinChange.cs" />
       <option value="$PROJECT_DIR$/GoalParser.cs" />
       <option value="$PROJECT_DIR$/GroupSize.cs" />
@@ -87,6 +82,8 @@
       <option value="$PROJECT_DIR$/LinkedList/FindCycle.cs" />
       <option value="$PROJECT_DIR$/LinkedList/IntersectionNode.cs" />
       <option value="$PROJECT_DIR$/LinkedList/MyLinkedList.cs" />
+      <option value="$PROJECT_DIR$/LinkedList/ReverseLinkedLis.cs" />
+      <option value="$PROJECT_DIR$/LinkedList/ReverseLinkedList.cs" />
       <option value="$PROJECT_DIR$/LinkedList/RemoveNode.cs" />
     </changedPaths>
   </component>
@@ -170,7 +167,8 @@
       <workItem from="1626178151596" duration="5294000" />
       <workItem from="1626297663677" duration="708000" />
       <workItem from="1626622607384" duration="3062000" />
-      <workItem from="1626688062945" duration="12807000" />
+      <workItem from="1626688062945" duration="13495000" />
+      <workItem from="1627064220814" duration="2141000" />
     </task>
     <task id="LOCAL-00001" summary="added solutions">
       <created>1624540224161</created>
@@ -256,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626711164588</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="added linkelist facilities">
+      <created>1626731318306</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1626731318306</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,6 +294,7 @@
     <MESSAGE value="added three two more solutions" />
     <MESSAGE value="added solutions" />
     <MESSAGE value="added linkedlist design and some solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="added linkedlist design and some solutions" />
+    <MESSAGE value="added linkelist facilities" />
+    <option name="LAST_COMMIT_MESSAGE" value="added linkelist facilities" />
   </component>
 </project>

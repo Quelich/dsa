@@ -20,5 +20,16 @@ namespace SOLs.LinkedList
             slow.next = slow.next.next;
             return start.next;
         }
+        public ListNode RemoveElementsAtValue(ListNode head, int val) {
+            if(head == null) return null;
+            ListNode post = RemoveElementsAtValue(head.next,val);
+            if(head.val != val)
+            {
+                head.next = post;
+                return head;
+            }
+            head = head.next;
+            return post;
+        }
     }
 }
