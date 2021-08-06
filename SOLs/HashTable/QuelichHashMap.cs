@@ -4,7 +4,7 @@ namespace SOLs.Hashtable
 {
     public class QuelichHashMap
     {
-        //TODO harness no array use
+        //TODO harness no array
         private readonly bool[] _map;
         private readonly int[] _values;
         private readonly int _max;

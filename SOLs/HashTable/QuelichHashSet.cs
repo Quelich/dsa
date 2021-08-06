@@ -3,7 +3,7 @@ using System.Collections;
 
 namespace SOLs.LinkedList
 {
-    //TODO harness no array use
+    //TODO harness no array
     public class QuelichHashSet
     {
         private readonly bool[] _bucket;
