@@ -3,12 +3,13 @@ using System.Collections;
 
 namespace SOLs.LinkedList
 {
-    public class QuelichHashTable
+    //TODO harness no array use
+    public class QuelichHashSet
     {
         private readonly bool[] _bucket;
         private readonly int _max;
         /** Initialize your data structure here. */
-        public QuelichHashTable(int max)
+        public QuelichHashSet(int max)
         {
             _max = max;
             _bucket = new bool[_max];

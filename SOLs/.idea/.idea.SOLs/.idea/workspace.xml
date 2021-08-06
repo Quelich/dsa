@@ -4,25 +4,7 @@
     <projectFile>SOLs.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61380876-b965-4ebe-b865-a67b1040587c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DoublyLinkedList/DoublyListNode.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoublyLinkedList/QuelichDoublyLinkedList.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashTable/QuelichHashMap.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashTable/QuelichHashSet.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/InterfereDuplication.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Merge.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Merge.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MergeSortedLists.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Print.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Print.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOLs.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SOLs.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utils.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.pdb" afterDir="false" />
-    </list>
+    <list default="true" id="61380876-b965-4ebe-b865-a67b1040587c" name="Default Changelist" comment="added Data Structures models&#10;+ DoublyLinkedList&#10;+ Hashmap&#10;+ Hashset" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,8 +82,8 @@
       <option value="$PROJECT_DIR$/SOLs.csproj" />
       <option value="$PROJECT_DIR$/Print.cs" />
       <option value="$PROJECT_DIR$/HashTable/QuelichHashTable.cs" />
-      <option value="$PROJECT_DIR$/HashTable/QuelichHashSet.cs" />
       <option value="$PROJECT_DIR$/HashTable/QuelichHashMap.cs" />
+      <option value="$PROJECT_DIR$/HashTable/QuelichHashSet.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uOKTWnYHuFVw7wjz3juoEqSNcM" />
@@ -190,7 +172,7 @@
       <workItem from="1627245009817" duration="281000" />
       <workItem from="1627581969326" duration="1771000" />
       <workItem from="1627998693085" duration="4998000" />
-      <workItem from="1628275545812" duration="3235000" />
+      <workItem from="1628275545812" duration="3857000" />
     </task>
     <task id="LOCAL-00001" summary="added solutions">
       <created>1624540224161</created>
@@ -290,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627066984472</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="added Data Structures models&#10;+ DoublyLinkedList&#10;+ Hashmap&#10;+ Hashset">
+      <created>1628279861838</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1628279861838</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,6 +314,7 @@
     <MESSAGE value="added linkedlist design and some solutions" />
     <MESSAGE value="added linkelist facilities" />
     <MESSAGE value="added solutions for linkedlist problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="added solutions for linkedlist problems" />
+    <MESSAGE value="added Data Structures models&#10;+ DoublyLinkedList&#10;+ Hashmap&#10;+ Hashset" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Data Structures models&#10;+ DoublyLinkedList&#10;+ Hashmap&#10;+ Hashset" />
   </component>
 </project>
