@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace SOLs
 {
-    public class Merge : Utils
+    public class Merge 
     {
         public int[] MergeArrays(int[] arr1, int[] arr2)
         {

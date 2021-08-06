@@ -5,8 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61380876-b965-4ebe-b865-a67b1040587c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DoublyLinkedList/DoublyListNode.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoublyLinkedList/QuelichDoublyLinkedList.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTable/QuelichHashMap.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTable/QuelichHashSet.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/InterfereDuplication.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList/RemoveNode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/RemoveNode.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Merge.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Merge.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MergeSortedLists.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Print.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Print.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOLs.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SOLs.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,28 +43,20 @@
     <setting file="file://$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/Properties/AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/32259D52-8D68-43AA-9BFD-22F6468F5E1E/2F/DataTable.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/obj/Release/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HashTable/QuelichHashSet.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/Models/euclid_algorithm.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/Tests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TwoSums.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/CoinChange.cs" />
-      <option value="$PROJECT_DIR$/GoalParser.cs" />
-      <option value="$PROJECT_DIR$/GroupSize.cs" />
-      <option value="$PROJECT_DIR$/CountItems.cs" />
-      <option value="$PROJECT_DIR$/BinaryTree/TreeNode.cs" />
-      <option value="$PROJECT_DIR$/BinaryTree/RangeBST.cs" />
-      <option value="$PROJECT_DIR$/BinaryTree/IncreasingBST.cs" />
-      <option value="$PROJECT_DIR$/BalancedStrings.cs" />
-      <option value="$PROJECT_DIR$/PlaceFlowers.cs" />
       <option value="$PROJECT_DIR$/BinaryTree/LeftLeaves.cs" />
       <option value="$PROJECT_DIR$/MinimumMovesEqualArray.cs" />
       <option value="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/Tests.cs" />
       <option value="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/Models/euclid_algorithm.cs" />
       <option value="$PROJECT_DIR$/ListNode.cs" />
       <option value="$PROJECT_DIR$/BinaryTree/MergeBinaryTrees.cs" />
-      <option value="$PROJECT_DIR$/MergeSortedLists.cs" />
       <option value="$PROJECT_DIR$/PlusOnee.cs" />
       <option value="$PROJECT_DIR$/PermutationSequence.cs" />
       <option value="$PROJECT_DIR$/ClumsyFactorial.cs" />
@@ -85,6 +92,16 @@
       <option value="$PROJECT_DIR$/LinkedList/ReverseLinkedLis.cs" />
       <option value="$PROJECT_DIR$/LinkedList/ReverseLinkedList.cs" />
       <option value="$PROJECT_DIR$/LinkedList/RemoveNode.cs" />
+      <option value="$PROJECT_DIR$/LinkedList/PalindromeLinkedList.cs" />
+      <option value="$PROJECT_DIR$/LinkedList/InterfereDuplication.cs" />
+      <option value="$PROJECT_DIR$/Solutions.ipynb" />
+      <option value="$PROJECT_DIR$/Merge.cs" />
+      <option value="$PROJECT_DIR$/MergeSortedLists.cs" />
+      <option value="$PROJECT_DIR$/SOLs.csproj" />
+      <option value="$PROJECT_DIR$/Print.cs" />
+      <option value="$PROJECT_DIR$/HashTable/QuelichHashTable.cs" />
+      <option value="$PROJECT_DIR$/HashTable/QuelichHashSet.cs" />
+      <option value="$PROJECT_DIR$/HashTable/QuelichHashMap.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uOKTWnYHuFVw7wjz3juoEqSNcM" />
@@ -168,7 +185,12 @@
       <workItem from="1626297663677" duration="708000" />
       <workItem from="1626622607384" duration="3062000" />
       <workItem from="1626688062945" duration="13495000" />
-      <workItem from="1627064220814" duration="2141000" />
+      <workItem from="1627064220814" duration="3417000" />
+      <workItem from="1627158611895" duration="804000" />
+      <workItem from="1627245009817" duration="281000" />
+      <workItem from="1627581969326" duration="1771000" />
+      <workItem from="1627998693085" duration="4998000" />
+      <workItem from="1628275545812" duration="3235000" />
     </task>
     <task id="LOCAL-00001" summary="added solutions">
       <created>1624540224161</created>
@@ -261,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626731318306</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="added solutions for linkedlist problems">
+      <created>1627066984472</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1627066984472</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,6 +324,7 @@
     <MESSAGE value="added solutions" />
     <MESSAGE value="added linkedlist design and some solutions" />
     <MESSAGE value="added linkelist facilities" />
-    <option name="LAST_COMMIT_MESSAGE" value="added linkelist facilities" />
+    <MESSAGE value="added solutions for linkedlist problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="added solutions for linkedlist problems" />
   </component>
 </project>

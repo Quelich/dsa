@@ -4,11 +4,10 @@ using System.Text;
 
 namespace SOLs
 {
-    public class Print : Utils
+    public class Print 
     {
-        public void PrintHelloWorld() => Console.WriteLine("Hello World");
-
-        public void PrintElements(int[] array)
+        
+        public void PrintElements<T>(IEnumerable<T> array)
         {
             Console.Write("[");
             foreach (var item in array)
@@ -18,35 +17,6 @@ namespace SOLs
 
             Console.Write("]");
         }
-        public void PrintElements(string[] array)
-        {
-            Console.Write("[");
-            foreach (var item in array)
-            {
-                Console.Write(item + " ");
-            }
-
-            Console.Write("]");
-        }
-        public void PrintElements(string array)
-        {
-            Console.Write("[");
-            foreach (var item in array)
-            {
-                Console.Write(item + " ");
-            }
-
-            Console.Write("]");
-        }
-        public void PrintElements(IList<bool> list)
-        {
-            Console.Write("[");
-            foreach (var item in list)
-            {
-                Console.Write(item + " ");
-            }
-
-            Console.Write("]");
-        }
+      
     }
 }
