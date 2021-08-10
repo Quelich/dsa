@@ -1,9 +1,10 @@
 using System;
-using System.Collections;
+using SOLs.LinkedList;
 
 namespace SOLs.LinkedList
 {
     //TODO harness no array
+    //TODO add hash function later
     public class QuelichHashSet
     {
         private readonly bool[] _bucket;
@@ -14,7 +15,7 @@ namespace SOLs.LinkedList
             _max = max;
             _bucket = new bool[_max];
         }
-
+        
         public void Add(int key)
         {
             if (key < 0 || key > _max - 1) return;
@@ -36,24 +37,24 @@ namespace SOLs.LinkedList
 
     }
 }
-//     internal class Program
-//     {
-//         public static void Main(string[] args)
-//         {
-//             var myHashSet = new QuelichHashTable(1000001);
-//             var result = false;
-//             myHashSet.Add(1);      // set = [1]
-//             myHashSet.Add(2);      // set = [1, 2]
-//             result = myHashSet.Contains(1); // return True
-//             Console.WriteLine(result);
-//             result = myHashSet.Contains(3); // return False, (not found)
-//             Console.WriteLine(result);
-//             myHashSet.Add(2);      // set = [1, 2]
-//             result = myHashSet.Contains(2); // return True
-//             Console.WriteLine(result);
-//             myHashSet.Remove(2);   // set = [1]
-//             result = myHashSet.Contains(2); // return False, (already removed)
-//             Console.WriteLine(result);
-//         }
-//     }
-// 
+     // internal class Program
+     // {
+     //     public static void Main(string[] args)
+     //     {
+     //         var myHashSet = new QuelichHashSet(1000001);
+     //         var result = false;
+     //         myHashSet.Add(1);      // set = [1]
+     //         myHashSet.Add(2);      // set = [1, 2]
+     //         result = myHashSet.Contains(1); // return True
+     //         Console.WriteLine(result);
+     //         result = myHashSet.Contains(3); // return False, (not found)
+     //         Console.WriteLine(result);
+     //         myHashSet.Add(2);      // set = [1, 2]
+     //         result = myHashSet.Contains(2); // return True
+     //         Console.WriteLine(result);
+     //         myHashSet.Remove(2);   // set = [1]
+     //         result = myHashSet.Contains(2); // return False, (already removed)
+     //         Console.WriteLine(result);
+     //     }
+     // }
+ 

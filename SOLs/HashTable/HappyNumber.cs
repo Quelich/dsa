@@ -15,7 +15,7 @@ namespace SOLs.HashTable
                 if (hashNumbers.Contains(n)) return false;
                 // Add the number to the hash set for further duplicate evaluation
                 hashNumbers.Add(n);
-                // Apply the rule: "replace the number by "
+                // Apply the rule: "replace the number by  the sum of the squares of its digits"
                 n = ToSquareDigits(n);
             }
             // If the number pass the test above, it is a happy number

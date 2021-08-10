@@ -2,7 +2,7 @@ using System.Collections.Generic;
 
 namespace SOLs
 {
-    //Leetcode problems: 412 - easy
+    //Leetcode problems: 412
     public class FizzBuzzFunction
     {
         // public static void Main(string[] args)

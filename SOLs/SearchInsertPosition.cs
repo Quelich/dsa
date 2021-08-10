@@ -2,7 +2,7 @@ using System;
 
 namespace SOLs
 {
-    //Leetcode problems: 35 - easy
+    //Leetcode problems: 35 
     public class SearchInsertPosition
     {
         // public static void Main(string[] args)

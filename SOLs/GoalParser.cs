@@ -3,6 +3,7 @@ using System;
 namespace SOLs
 {
     //Leetcode Problems: 1678
+    //TODO use Regex
     public class GoalParser
     {
         // public static void Main(string[] args)

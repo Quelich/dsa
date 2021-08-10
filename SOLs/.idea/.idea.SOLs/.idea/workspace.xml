@@ -5,11 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61380876-b965-4ebe-b865-a67b1040587c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HashTable/HappyNumber.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashTable/SearchDuplicate.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashTable/SearchIntersection.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashTable/SearchSingle.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTable/GetTwoSum.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClumsyFactorial.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CombinationIterator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecodeXORed.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzzFunction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzzFunction.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoalParser.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GoalParser.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroupSize.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashTable/HappyNumber.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HashTable/HappyNumber.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashTable/QuelichHashMap.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HashTable/QuelichHashMap.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashTable/QuelichHashSet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HashTable/QuelichHashSet.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IPO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IncrementByOne.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Permutations.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlaceFlowers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RemoveDuplicates.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchInsert.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchInsertPosition.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SearchInsertPosition.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_binary.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.CoreCompileInputs.cache" afterDir="false" />
@@ -34,6 +48,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/Properties/AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../parking_system.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/32259D52-8D68-43AA-9BFD-22F6468F5E1E/2F/DataTable.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/obj/Release/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/HashTable/QuelichHashSet.cs" root0="FORCE_HIGHLIGHTING" />
@@ -44,11 +59,6 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/ListNode.cs" />
-      <option value="$PROJECT_DIR$/BinaryTree/MergeBinaryTrees.cs" />
-      <option value="$PROJECT_DIR$/PlusOnee.cs" />
-      <option value="$PROJECT_DIR$/PermutationSequence.cs" />
-      <option value="$PROJECT_DIR$/ClumsyFactorial.cs" />
       <option value="$PROJECT_DIR$/IPO.cs" />
       <option value="$PROJECT_DIR$/BinaryTree/Node.cs" />
       <option value="$PROJECT_DIR$/SubrectangleQueries.cs" />
@@ -56,9 +66,7 @@
       <option value="$PROJECT_DIR$/CombinationIterator.cs" />
       <option value="$PROJECT_DIR$/SortSentence.cs" />
       <option value="$PROJECT_DIR$/QueryPermutation.cs" />
-      <option value="$PROJECT_DIR$/FizzBuzzFunction.cs" />
       <option value="$PROJECT_DIR$/CountItem.cs" />
-      <option value="$PROJECT_DIR$/SearchInsertPosition.cs" />
       <option value="$PROJECT_DIR$/LongestPalindromicSubsequent.cs" />
       <option value="$PROJECT_DIR$/IsValidSquare.cs" />
       <option value="$PROJECT_DIR$/BinaryTree/MaximumDepth.cs" />
@@ -72,7 +80,6 @@
       <option value="$PROJECT_DIR$/RemovableMaxima.cs" />
       <option value="$PROJECT_DIR$/SumTreeNodes.cs" />
       <option value="$PROJECT_DIR$/MaxProfit.cs" />
-      <option value="$PROJECT_DIR$/MinRungs.cs" />
       <option value="$PROJECT_DIR$/../LinkedList/MyLinkedList.cs" />
       <option value="$PROJECT_DIR$/BrokenLetters.cs" />
       <option value="$PROJECT_DIR$/LinkedList/FindCycle.cs" />
@@ -89,12 +96,20 @@
       <option value="$PROJECT_DIR$/SOLs.csproj" />
       <option value="$PROJECT_DIR$/Print.cs" />
       <option value="$PROJECT_DIR$/HashTable/QuelichHashTable.cs" />
-      <option value="$PROJECT_DIR$/HashTable/QuelichHashMap.cs" />
-      <option value="$PROJECT_DIR$/HashTable/QuelichHashSet.cs" />
       <option value="$PROJECT_DIR$/HashTable/SearchDuplicate.cs" />
       <option value="$PROJECT_DIR$/HashTable/SearchSingle.cs" />
       <option value="$PROJECT_DIR$/HashTable/SearchIntersection.cs" />
       <option value="$PROJECT_DIR$/HashTable/HappyNumber.cs" />
+      <option value="$PROJECT_DIR$/ClumsyFactorial.cs" />
+      <option value="$PROJECT_DIR$/DecodeXORed.cs" />
+      <option value="$PROJECT_DIR$/FizzBuzzFunction.cs" />
+      <option value="$PROJECT_DIR$/GroupSize.cs" />
+      <option value="$PROJECT_DIR$/GoalParser.cs" />
+      <option value="$PROJECT_DIR$/MinRungs.cs" />
+      <option value="$PROJECT_DIR$/SearchInsertPosition.cs" />
+      <option value="$PROJECT_DIR$/HashTable/QuelichHashMap.cs" />
+      <option value="$PROJECT_DIR$/HashTable/QuelichHashSet.cs" />
+      <option value="$PROJECT_DIR$/HashTable/GetTwoSum.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uOKTWnYHuFVw7wjz3juoEqSNcM" />
@@ -109,8 +124,8 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.39280125" />
-    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.07511737" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3928924" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.07502468" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -184,7 +199,8 @@
       <workItem from="1627581969326" duration="1771000" />
       <workItem from="1627998693085" duration="4998000" />
       <workItem from="1628275545812" duration="6563000" />
-      <workItem from="1628358377521" duration="9465000" />
+      <workItem from="1628358377521" duration="10024000" />
+      <workItem from="1628414752006" duration="6020000" />
     </task>
     <task id="LOCAL-00001" summary="added solutions">
       <created>1624540224161</created>
@@ -305,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628280246176</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="added solutions related to the hash table problems">
+      <created>1628371243371</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1628371243371</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,6 +366,7 @@
     <MESSAGE value="added Data Structures models&#10;+ DoublyLinkedList&#10;+ Hashmap&#10;+ Hashset" />
     <MESSAGE value="evaluations for QuelichHashMap.cs and QuelichHashSet.cs" />
     <MESSAGE value="more evaluations" />
-    <option name="LAST_COMMIT_MESSAGE" value="more evaluations" />
+    <MESSAGE value="added solutions related to the hash table problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="added solutions related to the hash table problems" />
   </component>
 </project>
