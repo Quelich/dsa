@@ -5,30 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61380876-b965-4ebe-b865-a67b1040587c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HashTable/GetTwoSum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FindMajorityElement.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RomanToIntegers.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClumsyFactorial.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CombinationIterator.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DecodeXORed.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FizzBuzzFunction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzzFunction.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoalParser.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GoalParser.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GroupSize.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashTable/HappyNumber.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HashTable/HappyNumber.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashTable/QuelichHashMap.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HashTable/QuelichHashMap.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashTable/QuelichHashSet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HashTable/QuelichHashSet.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IPO.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IncrementByOne.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Permutations.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlaceFlowers.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RemoveDuplicates.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchInsert.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchInsertPosition.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SearchInsertPosition.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add_binary.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/SOLs.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/SOLs.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,20 +38,20 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/Tests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HashTable/QuelichHashSet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/32259D52-8D68-43AA-9BFD-22F6468F5E1E/2F/DataTable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FindMajorityElement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/obj/Release/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TwoSums.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/Models/euclid_algorithm.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RomanToIntegers.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/Properties/AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../parking_system.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/32259D52-8D68-43AA-9BFD-22F6468F5E1E/2F/DataTable.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/obj/Release/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/HashTable/QuelichHashSet.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/Models/euclid_algorithm.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/Tests.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TwoSums.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/IPO.cs" />
-      <option value="$PROJECT_DIR$/BinaryTree/Node.cs" />
       <option value="$PROJECT_DIR$/SubrectangleQueries.cs" />
       <option value="$PROJECT_DIR$/RemoveDuplicates.cs" />
       <option value="$PROJECT_DIR$/CombinationIterator.cs" />
@@ -110,6 +101,8 @@
       <option value="$PROJECT_DIR$/HashTable/QuelichHashMap.cs" />
       <option value="$PROJECT_DIR$/HashTable/QuelichHashSet.cs" />
       <option value="$PROJECT_DIR$/HashTable/GetTwoSum.cs" />
+      <option value="$PROJECT_DIR$/RomanToIntegers.cs" />
+      <option value="$PROJECT_DIR$/FindMajorityElement.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uOKTWnYHuFVw7wjz3juoEqSNcM" />
@@ -201,6 +194,8 @@
       <workItem from="1628275545812" duration="6563000" />
       <workItem from="1628358377521" duration="10024000" />
       <workItem from="1628414752006" duration="6020000" />
+      <workItem from="1629549963453" duration="608000" />
+      <workItem from="1629626513699" duration="7308000" />
     </task>
     <task id="LOCAL-00001" summary="added solutions">
       <created>1624540224161</created>
