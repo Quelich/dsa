@@ -29,13 +29,13 @@ namespace DefaultNamespace
         
     }
 
-    internal class Program
-    {
-        public static void Main(string[] args)
-        {
-            var nums = new[]{3,3,4};
-            var sol = new FindMajorityElement();
-            Console.WriteLine(sol.MajorityElement(nums));
-        }
-    }
+    // internal class Program
+    // {
+    //     public static void Main(string[] args)
+    //     {
+    //         var nums = new[]{3,3,4};
+    //         var sol = new FindMajorityElement();
+    //         Console.WriteLine(sol.MajorityElement(nums));
+    //     }
+    // }
 }

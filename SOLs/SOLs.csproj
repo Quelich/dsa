@@ -12,5 +12,9 @@
   <ItemGroup>
     <Compile Remove="LinkedList\**" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Geometry" />
+  </ItemGroup>
   
 </Project>
