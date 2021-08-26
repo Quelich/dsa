@@ -5,18 +5,116 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61380876-b965-4ebe-b865-a67b1040587c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Geometry/FindLargestTriangle.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashTable/FindNearbyDuplicate.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashTable/FindUniqueCharacter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashTable/MinimumIndexSum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python SOLs/common_prefix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python SOLs/impstrStr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python SOLs/jewels_and_stones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python SOLs/last_length.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python SOLs/numbers_smaller_than_current.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python SOLs/palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python SOLs/roman_to_int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python SOLs/sorting_sentence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python SOLs/sqrt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python SOLs/tempCodeRunnerFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python SOLs/valid_parentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuySellStock.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTable/FindConsistentStrings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTable/FindDestinationCity.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTable/FindOccurences.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTable/FindUniqueSum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTable/MaxBallsInBox.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashTable/MorseCode.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLs.sln.DotSettings.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parking_system.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/.idea/.idea.Quelich.Algorithmus.Test/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/.idea/.idea.Quelich.Algorithmus.Test/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/.idea/.idea.Quelich.Algorithmus.Test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/.idea/.idea.Quelich.Algorithmus.Test/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/.idea/.idea.Quelich.Algorithmus.Test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/.idea/.idea.Quelich.Algorithmus.Test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/Quelich.Algorithmus.Test.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/Quelich.Algorithmus.Test.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/Tests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/obj/Debug/Quelich.Algorithmus.Test.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/packages.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/packages/NUnit.3.5.0/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/packages/NUnit.3.5.0/CHANGES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/packages/NUnit.3.5.0/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/packages/NUnit.3.5.0/NOTICES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/packages/NUnit.3.5.0/NUnit.3.5.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/packages/NUnit.3.5.0/lib/dotnet/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/packages/NUnit.3.5.0/lib/dotnet/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/packages/NUnit.3.5.0/lib/net20/NUnit.System.Linq.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/packages/NUnit.3.5.0/lib/net20/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/packages/NUnit.3.5.0/lib/net20/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/packages/NUnit.3.5.0/lib/net35/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/packages/NUnit.3.5.0/lib/net35/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/packages/NUnit.3.5.0/lib/net40/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/packages/NUnit.3.5.0/lib/net40/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/packages/NUnit.3.5.0/lib/net45/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/packages/NUnit.3.5.0/lib/net45/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/packages/NUnit.3.5.0/lib/portable-net45+win8+wp8+wpa81+Xamarin.Mac+MonoAndroid10+MonoTouch10+Xamarin.iOS10/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/packages/NUnit.3.5.0/lib/portable-net45+win8+wp8+wpa81+Xamarin.Mac+MonoAndroid10+MonoTouch10+Xamarin.iOS10/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/.idea/.idea.Quelich.Algorithmus.dir/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/.idea/.idea.Quelich.Algorithmus/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/.idea/.idea.Quelich.Algorithmus/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/.idea/.idea.Quelich.Algorithmus/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/.idea/.idea.Quelich.Algorithmus/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/.idea/.idea.Quelich.Algorithmus/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/Models/QuickFindUF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/Models/euclid_algorithm.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/Quelich.Algorithmus.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/Quelich.Algorithmus.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/bin/Debug/Quelich.Algorithmus.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/bin/Debug/Quelich.Algorithmus.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/obj/Debug/Quelich.Algorithmus.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/obj/Debug/Quelich.Algorithmus.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/obj/Debug/Quelich.Algorithmus.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/obj/Debug/Quelich.Algorithmus.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/obj/Debug/Quelich.Algorithmus.pdb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOLs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindMajorityElement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HashTable/FindMajorityElement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RomanToIntegers.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HashTable/RomanToIntegers.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/SOLs.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/SOLs.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTests/Tests/.idea/.idea.Tests/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTests/Tests/.idea/.idea.Tests/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTests/Tests/.idea/.idea.Tests/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTests/Tests/.idea/.idea.Tests/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTests/Tests/.idea/.idea.Tests/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTests/Tests/.idea/.idea.Tests/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTests/Tests/Tests.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTests/Tests/Tests.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTests/Tests/UnitTest1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTests/Tests/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTests/Tests/obj/Debug/net5.0/Tests.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTests/Tests/obj/Debug/net5.0/Tests.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTests/Tests/obj/Debug/net5.0/Tests.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTests/Tests/obj/Debug/net5.0/Tests.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTests/Tests/obj/Debug/net5.0/Tests.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTests/Tests/obj/Tests.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTests/Tests/obj/Tests.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTests/Tests/obj/Tests.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTests/Tests/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTests/Tests/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTests/Tests/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTests/Tests/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../common_prefix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../impstrStr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jewels_and_stones.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../last_length.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numbers_smaller_than_current.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../palindrome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parking_system.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roman_to_int.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_sentence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sqrt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tempCodeRunnerFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valid_parentheses.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,29 +133,15 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../Quelich.Algorithmus.Test/Quelich.Algorithmus.Test/Tests.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/HashTable/QuelichHashSet.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Geometry/FindLargestTriangle.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/32259D52-8D68-43AA-9BFD-22F6468F5E1E/2F/DataTable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BuySellStock.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/HashTable/FindMajorityElement.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/obj/Release/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TwoSums.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/Models/euclid_algorithm.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Quelich.Algorithmus/Quelich.Algorithmus/Properties/AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../parking_system.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/CountItem.cs" />
-      <option value="$PROJECT_DIR$/LongestPalindromicSubsequent.cs" />
-      <option value="$PROJECT_DIR$/IsValidSquare.cs" />
-      <option value="$PROJECT_DIR$/BinaryTree/MaximumDepth.cs" />
-      <option value="$PROJECT_DIR$/BinaryTree/PathSum.cs" />
-      <option value="$PROJECT_DIR$/BinaryTree/MinimumDepth.cs" />
-      <option value="$PROJECT_DIR$/BinaryTree/PathSum2.cs" />
-      <option value="$PROJECT_DIR$/BinaryTree/Flatten.cs" />
-      <option value="$PROJECT_DIR$/StringToInt.cs" />
       <option value="$PROJECT_DIR$/ValidAnagram.cs" />
       <option value="$PROJECT_DIR$/AnagramGrouping.cs" />
       <option value="$PROJECT_DIR$/RemovableMaxima.cs" />
@@ -100,6 +184,15 @@
       <option value="$PROJECT_DIR$/HashTable/FindNearbyDuplicate.cs" />
       <option value="$PROJECT_DIR$/HashTable/MinimumIndexSum.cs" />
       <option value="$PROJECT_DIR$/Geometry/FindLargestTriangle.cs" />
+      <option value="$PROJECT_DIR$/BuySellStock.cs" />
+      <option value="$PROJECT_DIR$/HashTable/QuelichOrderedStream.cs" />
+      <option value="$PROJECT_DIR$/HashTable/FindConsistentStrings.cs" />
+      <option value="$PROJECT_DIR$/HashTable/MorseCode.cs" />
+      <option value="$PROJECT_DIR$/HashTable/FindDestinationCity.cs" />
+      <option value="$PROJECT_DIR$/UnitTests/UnitTest1.cs" />
+      <option value="$PROJECT_DIR$/HashTable/FindOccurences.cs" />
+      <option value="$PROJECT_DIR$/HashTable/FindUniqueSum.cs" />
+      <option value="$PROJECT_DIR$/HashTable/MaxBallsInBox.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uOKTWnYHuFVw7wjz3juoEqSNcM" />
@@ -124,10 +217,10 @@
     <property name="XThreadsFramesViewSplitterKey" value="0.4448819" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys_rider" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.SOLs">
     <configuration name="SOLs" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -194,7 +287,8 @@
       <workItem from="1629549963453" duration="608000" />
       <workItem from="1629626513699" duration="8826000" />
       <workItem from="1629727865572" duration="6625000" />
-      <workItem from="1629802515498" duration="5128000" />
+      <workItem from="1629802515498" duration="5824000" />
+      <workItem from="1629978529380" duration="15744000" />
     </task>
     <task id="LOCAL-00001" summary="added solutions">
       <created>1624540224161</created>
@@ -329,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629648226209</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="more solutions">
+      <created>1629809573457</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1629809573457</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,6 +470,7 @@
     <MESSAGE value="more evaluations" />
     <MESSAGE value="added solutions related to the hash table problems" />
     <MESSAGE value="added solutions of hash table questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="added solutions of hash table questions" />
+    <MESSAGE value="more solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="more solutions" />
   </component>
 </project>
