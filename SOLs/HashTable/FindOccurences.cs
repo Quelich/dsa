@@ -30,15 +30,4 @@ namespace SOLs.HashTable
             return true;
         }
     }
-    // internal class Program
-    // {
-    //     public static void Main(string[] args)
-    //     {
-    //         var sol = new FindOccurences();
-    //         var s = "aaabb";
-    //         var result = sol.AreOccurrencesEqual(s);
-    //         Console.WriteLine(result);
-    //
-    //     }
-    // }
 }

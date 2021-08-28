@@ -23,15 +23,4 @@ namespace SOLs.HashTable
             return sum;
         }
     }
-    // internal class Program
-    // {
-    //     public static void Main(string[] args)
-    //     {
-    //         var sol = new FindUniqueSum();
-    //         var nums =new[] {10};
-    //         var result = sol.SumOfUnique(nums);
-    //         Console.WriteLine(result);
-    //
-    //     }
-    // }
 }

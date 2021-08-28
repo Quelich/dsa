@@ -14,17 +14,5 @@ namespace SOLs.HashTable
             }
             return false;
         }
-        
-        // internal class Program
-        // {
-        //     public static void Main(string[] args)
-        //     {
-        //         var sol = new FindNearbyDuplicate();
-        //         var nums = new[] { 1,0,1,1};
-        //         var k = 0;
-        //         var output = sol.ContainsNearbyDuplicate(nums,k);
-        //         Console.WriteLine(output);
-        //     }
-        // }
     }
 }
