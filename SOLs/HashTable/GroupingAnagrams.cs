@@ -3,18 +3,6 @@ using System.Collections.Generic;
 
 public class GroupingAnagrams 
 {
-    public static void Main(string[] args)
-    {
-        var result = GroupAnagrams(new string[] { "eat", "tea", "tan", "ate", "nat", "bat" });
-        foreach (var item in result)
-        {
-            foreach (var str in item)
-            {
-                Console.Write(str + " ");
-            }
-            Console.WriteLine();
-        }
-    }
     public static IList<IList<string>> GroupAnagrams(string[] strs)
     {
         var charArray = new char[101];

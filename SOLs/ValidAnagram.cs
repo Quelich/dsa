@@ -6,12 +6,6 @@ namespace SOLs
 {
     public class ValidAnagram
     {
-        // public static void Main(string[] args)
-        // {
-        //     var s = "anagram";
-        //     var t = "nagaram";
-        //     Console.WriteLine(IsAnagram(s,t));
-        // }
         public static bool IsAnagram(string s, string t) {
             if(s.Length != t.Length) return false;
             var ss = s.ToCharArray();

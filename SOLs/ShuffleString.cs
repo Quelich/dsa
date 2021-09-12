@@ -7,13 +7,6 @@ namespace SOLs
     //Leetcode Problems:1528 
     public class ShuffleString
     {
-        // public static void Main(string[] args)
-        // {
-        //     var s = "abc";
-        //     int[] indices = {0,1,2};
-        //     Console.WriteLine(RestoreString(s,indices));
-        //     //RestoreString(s, indices);
-        // }
         public static string RestoreString(string s, int[] indices)
         {
             var order = new char[indices.Length];

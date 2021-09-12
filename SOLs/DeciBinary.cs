@@ -5,11 +5,6 @@ namespace SOLs
     //Leetcode Problems: 1689
     public class DeciBinary
     {
-        // public static void Main(string[] args)
-        // {
-        //     var n = "27346209830709182346";
-        //     Console.WriteLine(MinPartitions(n));
-        // }
         public static int MinPartitions(string n)
         {
             var m = decimal.Parse(n);

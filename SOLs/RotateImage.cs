@@ -4,14 +4,7 @@ using System.Collections.Generic;
 namespace SOLs
 {
     public class RotateImage
-    {
-        // public static void Main(string[] args)
-        // {
-        //     int[,] input = {{ 1,2,3},{ 4,5,6},{ 7,8,9}};
-        //    Rotate(input);
-        // }
-
-      
+    {  
         public static void Rotate(int[,] matrix)
         {
             var j = 0;

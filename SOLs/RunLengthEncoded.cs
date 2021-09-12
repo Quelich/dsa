@@ -6,13 +6,6 @@ namespace SOLs
     //Leetcode Problems: 1313
     public class RunLengthEncoded
     {
-       
-        // public static void Main(string[] args)
-        // {
-        //     var input = new int[]{1, 2,3,4};
-        //     Print(DecompressRLElist(input));
-        //
-        // }
         public static int[] DecompressRLElist(int[] nums)
         {
             var freq = 0;

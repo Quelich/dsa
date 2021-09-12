@@ -18,15 +18,4 @@ namespace SOLs
             return maxProfit;
         }
     }
-
-    // internal class Program
-    // {
-    //     public static void Main(string[] args)
-    //     {
-    //         var sol = new BuySellStock();
-    //         var prices = new[] {7,6,4,3,1};
-    //         var result = sol.MaxProfit(prices);
-    //         Console.WriteLine(result);
-    //     }
-    // }
 }

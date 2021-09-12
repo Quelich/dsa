@@ -5,12 +5,6 @@ namespace SOLs
     //Leetcode problems: 412
     public class FizzBuzzFunction
     {
-        // public static void Main(string[] args)
-        // {
-        //     var util = new ArrayUtils();
-        //     var n = 15;
-        //     util.Print(FizzBuzz(n));
-        // }
         public static IList<string> FizzBuzz(int n)
         {
             var numbers = new int[n];

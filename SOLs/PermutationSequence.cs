@@ -44,11 +44,5 @@ namespace SOLs
             permute(num,0,num.Length-1);
             return  Permutations[k-1];
         }
-
-        // public static void Main(string[] args)
-        // {
-        //     
-        //     Console.WriteLine(GetPermutation(4,9));
-        // }
     }
 }

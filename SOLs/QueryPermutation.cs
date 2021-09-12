@@ -5,11 +5,6 @@ namespace SOLs
 {
     public class QueryPermutation
     {
-        // public static void Main(string[] args)
-        // {
-        //     ProcessQueries(new[] {3, 1, 2, 1}, 5);
-        // }
-
         public static int[] ProcessQueries(int[] queries, int m)
         {
             var p = new int[m];

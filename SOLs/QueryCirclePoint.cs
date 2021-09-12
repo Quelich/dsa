@@ -4,19 +4,6 @@ namespace SOLs
 {
     public class QueryCirclePoint
     {
-        // public static void Main(string[] args)
-        // {
-        //     int[][] points = new int[4][];
-        //     int[][] queries = new int[3][];
-        //     points[0] = new int[] {1, 3};
-        //     points[1] = new int[] {3, 3};
-        //     points[2] = new int[] {5, 3};
-        //     points[3] = new int[] {2, 2};
-        //     queries[0] = new int[] {2,3,1 };
-        //     queries[1] = new int[] {4,3,1 };
-        //     queries[2] = new int[] {1,1,2 };
-        //     Print(CountPoints(points, queries));
-        // }
         public static int[] CountPoints(int[][] points, int[][] queries)
         {
             int[] result = new int[queries.Length];

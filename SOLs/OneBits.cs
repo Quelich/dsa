@@ -4,7 +4,7 @@ namespace SOLs
 {
     public class OneBits
     {
-        // 191
+        // Leetcode 191
         public static int HammingWeight(uint n)
         {
             var biString = Convert.ToString(n, toBase: 2);

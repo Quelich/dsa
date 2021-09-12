@@ -6,11 +6,6 @@ namespace SOLs
     //TODO use Regex
     public class GoalParser
     {
-        // public static void Main(string[] args)
-        // {
-        //     var command = "G()()()()(al)";
-        //     Console.WriteLine(Interpret(command));
-        // }
         public static string Interpret(string command)
         {
             var result = string.Empty;

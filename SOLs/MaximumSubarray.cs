@@ -3,11 +3,6 @@ namespace SOLs
 {
     public class MaximumSubarray
     {
-        // public static void Main(string[] args)
-        // {
-        //     int[] input = {-2,1,-3,4,-1,2,1,-5,4 };
-        //     Console.WriteLine(MaxSubArray(input));
-        // }
         public static int MaxSubArray(int[] nums)
         {
             int max_so_far = int.MinValue,
@@ -25,8 +20,6 @@ namespace SOLs
             }
 		
             return max_so_far;
-        }
-
-       
+        }       
     }
 }

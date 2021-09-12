@@ -17,14 +17,3 @@ public class Solution {
         return count;
     }
 }
-
-// public class Program
-// {
-//     public static void Main(string[] args)
-//     {
-//         var text = "hello world";
-//         var brokenLetters = "ad";
-//         var result = new Solution().CanBeTypedWords(text, brokenLetters);
-//         Console.WriteLine(result);
-//     }
-// }

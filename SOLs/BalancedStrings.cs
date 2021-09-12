@@ -5,11 +5,6 @@ namespace SOLs
     //Leetcode Problems: 1221
     public class BalancedStrings
     {
-        // public static void Main(string[] args)
-        // {
-        //     var s = "RLRRLLRLRL";
-        //     Console.WriteLine(BalancedStringSplit(s));
-        // }
         public static int BalancedStringSplit(string s)
         {
             var answer = 0;

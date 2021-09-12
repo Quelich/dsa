@@ -7,11 +7,6 @@ namespace SOLs
     //Leetcode Problems: 1769
     public class MoveBalls
     {
-        // public static void Main(string[] args)
-        // {
-        //     var boxes = "110";
-        //     MinOperations(boxes);
-        // }
         public static int[] MinOperations(string boxes)
         {
             var ballLocations = new List<int>();

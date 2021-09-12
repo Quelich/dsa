@@ -4,15 +4,6 @@ namespace SOLs
 {
     public class StringAddition
     {
-        // private static void Main(string[] args)
-        // {
-        //     string num1 = "6913259244";
-        //     string num2 = "71103343";
-        //     StringAddition sol = new StringAddition();
-        //     Console.WriteLine( sol.AddStrings(num1, num2));
-        //   
-        // }
-
         public string AddStrings(string num1, string num2)
         {
             List<int> num1_to = parseString(num1);
