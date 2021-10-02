@@ -49,3 +49,4 @@ namespace SOLs
             return Rectangle[row][col];
         }
     }
+}

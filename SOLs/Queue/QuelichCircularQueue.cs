@@ -1,21 +1,25 @@
 using System;
-public class QuelichCircularQueue {
-    private int Size{get;set;}
+public class QuelichCircularQueue
+{
+    private int Size { get; set; }
     private int[] Queue;
     // Index to indicate the starting point
     public int Head { get; set; }
-    public int Tail{ get; set; }
+    public int Tail { get; set; }
 
-    public QuelichCircularQueue (int k) {
+    public QuelichCircularQueue(int k)
+    {
         Queue = new int[k];
         Size = 0;
         Head = 0;
         Tail = -1;
     }
 
-    public bool EnQueue (int value) {
+    public bool EnQueue(int value)
+    {
         // If the queue is full, add none
-        if (IsFull ()) {
+        if (IsFull())
+        {
             return false;
         }
         // Circular increment
@@ -25,8 +29,10 @@ public class QuelichCircularQueue {
         return true;
     }
 
-    public bool DeQueue () {
-        if (IsEmpty ()) {
+    public bool DeQueue()
+    {
+        if (IsEmpty())
+        {
             return false;
         }
         // Circular decrement
@@ -35,26 +41,32 @@ public class QuelichCircularQueue {
         return true;
     }
 
-    public int Front () {
+    public int Front()
+    {
         return IsEmpty() ? -1 : Queue[Head];
     }
 
-    public int Rear () {
+    public int Rear()
+    {
         return IsEmpty() ? -1 : Queue[Tail];
     }
 
-    public bool IsEmpty () {
+    public bool IsEmpty()
+    {
         return Size == 0;
     }
 
-    public bool IsFull () {
-      return Size == Queue.Length;
+    public bool IsFull()
+    {
+        return Size == Queue.Length;
     }
-    public void Print () {
-        foreach (var num in Queue) {
-            Console.Write (num + " ");
+    public void Print()
+    {
+        foreach (var num in Queue)
+        {
+            Console.Write(num + " ");
         }
-        System.Console.WriteLine ();
+        System.Console.WriteLine();
     }
 }
 
