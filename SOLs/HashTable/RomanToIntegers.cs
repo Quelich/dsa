@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace DefaultNamespace
+namespace SOLs.HashTable
 {
     public class RomanToIntegers
     {
@@ -22,7 +22,7 @@ namespace DefaultNamespace
             // Count on the last element at first
             var result = map[s[^1]];
             // Starting after the last element
-            for (var i = s.Length-2; i >= 0 ; i--)
+            for (var i = s.Length - 2; i >= 0; i--)
             {
                 // If the following element is less than the current element,
                 // do addition
@@ -31,19 +31,9 @@ namespace DefaultNamespace
                 // If not, do subtraction
                 else
                     result += map[s[i]];
-                
+
             }
             return result;
         }
     }
-
-    // internal class Program
-    // {
-    //     public static void Main(string[] args)
-    //     {
-    //         var input = 58;
-    //         var sol = new RomanToIntegers();
-    //         Console.WriteLine(sol.RomanToInt(input));
-    //     }
-    // }
 }

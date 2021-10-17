@@ -7,7 +7,7 @@ namespace SOLs.HashTable
     {
         public int UniqueMorseRepresentations(string[] words)
         {
-            var morseCodes = new[]{".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."};
+            var morseCodes = new[] { ".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..", ".---", "-.-", ".-..", "--", "-.", "---", ".--.", "--.-", ".-.", "...", "-", "..-", "...-", ".--", "-..-", "-.--", "--.." };
             var morseSet = new HashSet<string>();
             var morse = string.Empty;
             foreach (var word in words)
@@ -22,14 +22,4 @@ namespace SOLs.HashTable
             return morseSet.Count;
         }
     }
-    // internal class Program
-    // {
-    //     public static void Main(string[] args)
-    //     {
-    //         var sol = new MorseCode();
-    //         var words = new[] {"gin", "zen", "gig", "msg"};
-    //         var result = sol.UniqueMorseRepresentations(words);
-    //         Console.WriteLine(result);
-    //     }
-    // }
 }

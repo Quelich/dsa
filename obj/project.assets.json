@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitRepos\\LeetcodeSolutions\\LeetcodeSolutions.csproj",
+      "projectUniqueName": "D:\\2GitRepos\\LeetcodeSolutions\\LeetcodeSolutions.csproj",
       "projectName": "LeetcodeSolutions",
-      "projectPath": "D:\\GitRepos\\LeetcodeSolutions\\LeetcodeSolutions.csproj",
+      "projectPath": "D:\\2GitRepos\\LeetcodeSolutions\\LeetcodeSolutions.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\GitRepos\\LeetcodeSolutions\\obj\\",
+      "outputPath": "D:\\2GitRepos\\LeetcodeSolutions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

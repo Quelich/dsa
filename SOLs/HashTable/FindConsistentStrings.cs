@@ -19,16 +19,4 @@ namespace SOLs.HashTable
             return count;
         }
     }
-
-    // internal class Program
-    // {
-    //     public static void Main(string[] args)
-    //     {
-    //         var sol = new FindConsistentStrings();
-    //         var allowed = "abc";
-    //         var words = new[] {"a","b","c","ab","ac","bc","abc"};
-    //         var result = sol.CountConsistentStrings(allowed, words);
-    //         Console.WriteLine(result);
-    //     }
-    // }
 }

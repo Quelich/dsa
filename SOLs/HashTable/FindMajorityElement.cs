@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace DefaultNamespace
+namespace SOLs.HashTable
 {
     public class FindMajorityElement
     {
@@ -28,14 +28,4 @@ namespace DefaultNamespace
         }
         
     }
-
-    // internal class Program
-    // {
-    //     public static void Main(string[] args)
-    //     {
-    //         var nums = new[]{3,3,4};
-    //         var sol = new FindMajorityElement();
-    //         Console.WriteLine(sol.MajorityElement(nums));
-    //     }
-    // }
 }

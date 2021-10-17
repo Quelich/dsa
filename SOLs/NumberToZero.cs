@@ -5,7 +5,6 @@ namespace SOLs
     //Leetcode Problems: 1342
     public class NumberToZero
     {
-       
         public static int NumberOfSteps(int num)
         {
             var counter = 0;

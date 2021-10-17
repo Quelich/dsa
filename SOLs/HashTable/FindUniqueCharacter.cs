@@ -28,22 +28,7 @@ namespace SOLs.HashTable
                 if (pair.Value == -1) continue;
                 return pair.Value;
             }
-            foreach (var pair in map)
-            {
-                Console.WriteLine(pair.Key + " " + pair.Value);
-            }
             return -1;
         }
     }
-
-    // internal class Program
-    // {
-    //     public static void Main(string[] args)
-    //     {
-    //         var sol = new FindUniqueCharacter();
-    //         var s = "loveleetcode";
-    //         var output = sol.FirstUniqChar(s);
-    //         Console.WriteLine(output);
-    //     }
-    // }
 }

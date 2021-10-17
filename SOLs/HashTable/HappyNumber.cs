@@ -35,16 +35,6 @@ namespace SOLs.HashTable
             }
             return result;
         }
-        
+
     }
-    // internal class Program
-    // {
-    //     public static void Main(string[] args)
-    //     {
-    //         var n = 2;
-    //         var solution = new HappyNumber();
-    //         var result = solution.IsHappy(n);
-    //         Console.WriteLine("\n"+result);
-    //     }
-    // }
 }

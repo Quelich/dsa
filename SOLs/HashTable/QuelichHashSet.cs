@@ -1,9 +1,8 @@
 using System;
-using SOLs.LinkedList;
 
-namespace SOLs.LinkedList
+
+namespace SOLs.HashTable
 {
-    //TODO harness no array
     //TODO add hash function later
     public class QuelichHashSet
     {
@@ -15,7 +14,7 @@ namespace SOLs.LinkedList
             _max = max;
             _bucket = new bool[_max];
         }
-        
+
         public void Add(int key)
         {
             if (key < 0 || key > _max - 1) return;
@@ -31,30 +30,9 @@ namespace SOLs.LinkedList
         /** Returns true if this set contains the specified element */
         public bool Contains(int key)
         {
-            if (key < 0 || key > _max -1) return false;
+            if (key < 0 || key > _max - 1) return false;
             return _bucket[key];
         }
 
     }
 }
-     // internal class Program
-     // {
-     //     public static void Main(string[] args)
-     //     {
-     //         var myHashSet = new QuelichHashSet(1000001);
-     //         var result = false;
-     //         myHashSet.Add(1);      // set = [1]
-     //         myHashSet.Add(2);      // set = [1, 2]
-     //         result = myHashSet.Contains(1); // return True
-     //         Console.WriteLine(result);
-     //         result = myHashSet.Contains(3); // return False, (not found)
-     //         Console.WriteLine(result);
-     //         myHashSet.Add(2);      // set = [1, 2]
-     //         result = myHashSet.Contains(2); // return True
-     //         Console.WriteLine(result);
-     //         myHashSet.Remove(2);   // set = [1]
-     //         result = myHashSet.Contains(2); // return False, (already removed)
-     //         Console.WriteLine(result);
-     //     }
-     // }
- 

@@ -1,72 +1,77 @@
 using System;
-public class QuelichCircularQueue
+
+namespace SOLs.Queue
 {
-    private int Size { get; set; }
-    private int[] Queue;
-    // Index to indicate the starting point
-    public int Head { get; set; }
-    public int Tail { get; set; }
 
-    public QuelichCircularQueue(int k)
+    public class QCircularQueue
     {
-        Queue = new int[k];
-        Size = 0;
-        Head = 0;
-        Tail = -1;
-    }
+        private int Size { get; set; }
+        private int[] Queue;
+        // Index to indicate the starting point
+        public int Head { get; set; }
+        public int Tail { get; set; }
 
-    public bool EnQueue(int value)
-    {
-        // If the queue is full, add none
-        if (IsFull())
+        public QCircularQueue(int k)
         {
-            return false;
+            Queue = new int[k];
+            Size = 0;
+            Head = 0;
+            Tail = -1;
         }
-        // Circular increment
-        Tail = (Tail + 1) % Queue.Length;
-        Queue[Tail] = value;
-        Size++;
-        return true;
-    }
 
-    public bool DeQueue()
-    {
-        if (IsEmpty())
+        public bool EnQueue(int value)
         {
-            return false;
+            // If the queue is full, add none
+            if (IsFull())
+            {
+                return false;
+            }
+            // Circular increment
+            Tail = (Tail + 1) % Queue.Length;
+            Queue[Tail] = value;
+            Size++;
+            return true;
         }
-        // Circular decrement
-        Head = (Head + 1) % Queue.Length;
-        Size--;
-        return true;
-    }
 
-    public int Front()
-    {
-        return IsEmpty() ? -1 : Queue[Head];
-    }
-
-    public int Rear()
-    {
-        return IsEmpty() ? -1 : Queue[Tail];
-    }
-
-    public bool IsEmpty()
-    {
-        return Size == 0;
-    }
-
-    public bool IsFull()
-    {
-        return Size == Queue.Length;
-    }
-    public void Print()
-    {
-        foreach (var num in Queue)
+        public bool DeQueue()
         {
-            Console.Write(num + " ");
+            if (IsEmpty())
+            {
+                return false;
+            }
+            // Circular decrement
+            Head = (Head + 1) % Queue.Length;
+            Size--;
+            return true;
         }
-        System.Console.WriteLine();
+
+        public int Front()
+        {
+            return IsEmpty() ? -1 : Queue[Head];
+        }
+
+        public int Rear()
+        {
+            return IsEmpty() ? -1 : Queue[Tail];
+        }
+
+        public bool IsEmpty()
+        {
+            return Size == 0;
+        }
+
+        public bool IsFull()
+        {
+            return Size == Queue.Length;
+        }
+        public void Print()
+        {
+            foreach (var num in Queue)
+            {
+                Console.Write(num + " ");
+            }
+            System.Console.WriteLine();
+        }
     }
+
 }
-

@@ -22,17 +22,4 @@ namespace SOLs.HashTable
             return null;
         }
     }
-
-    // internal class Program
-    // {
-    //     public static void Main(string[] args)
-    //     {
-    //         var solution = new GetTwoSum();
-    //         var input = new[] {2, 7, 11, 15};
-    //         var target = 9;
-    //         var print = new Print();
-    //         var result = solution.TwoSum(input, target);
-    //         print.PrintElements(result);
-    //     }
-    // }
 }

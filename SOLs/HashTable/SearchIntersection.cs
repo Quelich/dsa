@@ -45,16 +45,4 @@ namespace SOLs.HashTable
             return resultArray;
         }
     }
-    // internal class Program
-    // {
-    //     public static void Main(string[] args)
-    //     {
-    //         var input1 = new []{4,9,5};
-    //         var input2 = new[] { 9,4,9,8,4}; 
-    //         var solution = new SearchIntersection();
-    //         var result = solution.Intersection(input1,input2);
-    //         var print = new Print();
-    //         print.PrintElements(result);
-    //     }
-    // }
 }

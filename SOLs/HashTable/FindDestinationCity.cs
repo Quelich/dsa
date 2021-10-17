@@ -26,21 +26,4 @@ namespace SOLs.HashTable
             return null;
         }
     }
-    // internal class Program
-    // {
-    //     public static void Main(string[] args)
-    //     {
-    //         var sol = new FindDestinationCity();
-    //         
-    //         IList<IList<string>> input = new List<IList<string>>();
-    //         IList<string> part1 = new List<string>();
-    //         part1.Add("A");
-    //         part1.Add("Z");
-    //         input.Add(part1);
-    //
-    //         Console.WriteLine(sol.DestCity(input));
-    //         
-    //         
-    //     }
-    // }
 }

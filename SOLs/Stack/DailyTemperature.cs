@@ -6,8 +6,10 @@ public class DailyTemperature
     {
         int[] result = new int[temperatures.Length];
         Stack<int> stack = new Stack<int>();
+    
         for (int i = 0; i < temperatures.Length; i++)
         {
+            // Traverse through the nodes except the note being evaluated
             while (stack.Count > 0 && temperatures[stack.Peek()] < temperatures[i])
             {
                 int index = stack.Pop();

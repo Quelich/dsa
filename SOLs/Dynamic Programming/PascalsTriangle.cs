@@ -1,30 +1,33 @@
 using System;
 using System.Collections.Generic;
 
-class PascalsTriangle 
+namespace SOLs.DP
 {
-    public static IList<IList<int>> Generate(int numRows)
+    class PascalsTriangle
     {
-        var pascalsTriangle = new List<IList<int>>();
-        // First row
-        pascalsTriangle.Add(new List<int>() { 1 });
-        for (int row = 1; row < numRows; row++)
+        public static IList<IList<int>> Generate(int numRows)
         {
-            var currRow = new List<int>();
-            // Dynamic programming as using the previous row
-            var prevRow = pascalsTriangle[row - 1];
-            // First column of any row is 1
-            currRow.Add(1);
-            // Inner columns
-            for (int col = 1; col < row; col++)
+            var pascalsTriangle = new List<IList<int>>();
+            // First row
+            pascalsTriangle.Add(new List<int>() { 1 });
+            for (int row = 1; row < numRows; row++)
             {
-                currRow.Add(prevRow[col-1] + prevRow[col]);
+                var currRow = new List<int>();
+                // Dynamic programming as using the previous row
+                var prevRow = pascalsTriangle[row - 1];
+                // First column of any row is 1
+                currRow.Add(1);
+                // Inner columns
+                for (int col = 1; col < row; col++)
+                {
+                    currRow.Add(prevRow[col - 1] + prevRow[col]);
+                }
+                // Last column of any row is 1
+                currRow.Add(1);
+                // Add current row to pascalsTriangle
+                pascalsTriangle.Add(currRow);
             }
-            // Last column of any row is 1
-            currRow.Add(1);
-            // Add current row to pascalsTriangle
-            pascalsTriangle.Add(currRow);
+            return pascalsTriangle;
         }
-        return pascalsTriangle;
     }
 }

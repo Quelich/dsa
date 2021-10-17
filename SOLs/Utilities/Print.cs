@@ -4,19 +4,12 @@ using System.Text;
 
 namespace SOLs
 {
-    public class Print 
+    public class Utilities
     {
-        
-        public void PrintElements<T>(IEnumerable<T> array)
-        {
-            Console.Write("[");
-            foreach (var item in array)
-            {
-                Console.Write(item + " ");
-            }
 
-            Console.Write("]");
+        public virtual void Print<T>(IEnumerable<T> array)
+        {
+            // TODO: Implement this method
         }
-      
     }
 }
