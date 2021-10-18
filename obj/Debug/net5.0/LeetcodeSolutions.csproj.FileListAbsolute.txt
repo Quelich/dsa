@@ -3,3 +3,8 @@ D:\GitRepos\LeetcodeSolutions\obj\Debug\net5.0\LeetcodeSolutions.GeneratedMSBuil
 D:\GitRepos\LeetcodeSolutions\obj\Debug\net5.0\LeetcodeSolutions.AssemblyInfoInputs.cache
 D:\GitRepos\LeetcodeSolutions\obj\Debug\net5.0\LeetcodeSolutions.AssemblyInfo.cs
 D:\GitRepos\LeetcodeSolutions\obj\Debug\net5.0\LeetcodeSolutions.csproj.CoreCompileInputs.cache
+D:\2GitRepos\LeetcodeSolutions\obj\Debug\net5.0\LeetcodeSolutions.csproj.AssemblyReference.cache
+D:\2GitRepos\LeetcodeSolutions\obj\Debug\net5.0\LeetcodeSolutions.GeneratedMSBuildEditorConfig.editorconfig
+D:\2GitRepos\LeetcodeSolutions\obj\Debug\net5.0\LeetcodeSolutions.AssemblyInfoInputs.cache
+D:\2GitRepos\LeetcodeSolutions\obj\Debug\net5.0\LeetcodeSolutions.AssemblyInfo.cs
+D:\2GitRepos\LeetcodeSolutions\obj\Debug\net5.0\LeetcodeSolutions.csproj.CoreCompileInputs.cache

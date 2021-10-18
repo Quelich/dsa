@@ -6,7 +6,7 @@ namespace SOLs.Array {
         private delegate int ToAbs (int val1, int val2);
         public int MinMoves2 (int[] nums) {
             //Sorting nums
-            Array.Sort (nums);
+            System.Array.Sort (nums);
             var newNums = new int[nums.Length];
             for (var i = 0; i < nums.Length; i++) {
                 newNums[i] = nums[i];

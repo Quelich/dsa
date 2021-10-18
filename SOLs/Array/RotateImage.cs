@@ -29,7 +29,7 @@ namespace SOLs.Array
             //Reversing each element(int[] array)
             foreach (var VARIABLE in result)
             {
-                Array.Reverse(VARIABLE);
+                System.Array.Reverse(VARIABLE);
             }
             // Printing part
             Console.Write("[");

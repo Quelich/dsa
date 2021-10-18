@@ -4,24 +4,31 @@ namespace SOLs.Array
 {
     public class PlusOnee
     {
-        public static int[] PlusOne(int[] digits)
+        public int[] PlusOne(int[] digits)
         {
-            var i = digits.Length-1;
-            var stop = false;
-            while (!stop)
+            digits[digits.Length - 1]++;
+            var isExceed = false;
+            var array = new int[digits.Length + 1];
+            for (var i = digits.Length - 1; i >= 0; i--)
             {
-                if (digits[i]+1 >= 10)
+                if (digits[i] == 10)
                 {
                     digits[i] = 0;
-                    digits[i - 1] += 1;
+                    if (i == 0)
+                    {
+                        isExceed = true;
+                        for (var j = 1; j < digits.Length; j++)
+                        {
+                            array[j] = digits[j];
+                        }
+                        array[0]++;
+                        break;
+                    }
+                    digits[i - 1]++;
                 }
-                else
-                {
-                    digits[i] += 1;
-                    stop = true;
-                }
-                i--;
             }
+            if (isExceed)
+                return array;
             return digits;
         }
     }

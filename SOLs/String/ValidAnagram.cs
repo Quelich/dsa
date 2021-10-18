@@ -10,8 +10,8 @@ namespace SOLs.String
             if(s.Length != t.Length) return false;
             var ss = s.ToCharArray();
             var tt = t.ToCharArray();
-            Array.Sort(ss);
-            Array.Sort(tt);
+            System.Array.Sort(ss);
+            System.Array.Sort(tt);
             for (var i = 0; i < ss.Length; i++)
             {
                 if (ss[i] != tt[i]) return false;
