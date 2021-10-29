@@ -1,7 +1,7 @@
 using System;
 using System.Diagnostics.CodeAnalysis;
 
-namespace SOLs.Array
+namespace SOLs.QArray
 {
     public class SubrectangleQueries
     {

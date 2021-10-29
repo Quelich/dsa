@@ -1,6 +1,6 @@
 using System;
 using SOLs;
-using SOLs.Array;
+using SOLs.QArray;
 
 
 namespace SOLs
@@ -9,8 +9,8 @@ namespace SOLs
     {
         internal static void Main(string[] args)
         {
-            var sol = new ReplaceElementsRightSide();
-            var result = sol.ReplaceElements(new[]{400});
+            var sol = new MoveZeros();
+            var result = sol.Move(new int[] { 0, 1, 0, 3, 12 });
             System.Console.WriteLine(string.Join(",", result));
         }
     }

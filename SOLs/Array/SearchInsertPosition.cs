@@ -1,5 +1,5 @@
 
-namespace SOLs.Array
+namespace SOLs.QArray
 {
     //Leetcode problems: 35 
     public class SearchInsertPosition

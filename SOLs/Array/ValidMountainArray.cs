@@ -1,5 +1,6 @@
-namespace SOLs.Array
+namespace SOLs.QArray
 {
+    // Leetcode #941
     public class ValidMountainArray
     {
         public bool IsMountain(int[] arr)

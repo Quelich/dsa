@@ -1,4 +1,4 @@
-namespace SOLs.Array {
+namespace SOLs.QArray {
 
     public class RunningSum {
         public int[] runningSum (int[] nums) {

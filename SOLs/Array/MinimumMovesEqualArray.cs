@@ -1,5 +1,5 @@
-using SOLs.Array;
-namespace SOLs.Array {
+using SOLs.QArray;
+namespace SOLs.QArray {
     //Leetcode Problems: 462
     public class MinimumMovesEqualArray {
 

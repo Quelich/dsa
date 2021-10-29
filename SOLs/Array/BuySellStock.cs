@@ -1,6 +1,6 @@
 using System;
 
-namespace SOLs.Array
+namespace SOLs.QArray
 {
     public class BuySellStock
     {

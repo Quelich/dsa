@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-namespace SOLs.Array
+namespace SOLs.QArray
 {
     public class DoubleExist
     {
