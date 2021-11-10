@@ -8,18 +8,18 @@ namespace SOLs.QArray
         {
             var ptr1 = 0; // traverse the array
             var ptr2 = 0; // traverse non-zero elements
-            while(ptr1 < nums.Length)
+            while (ptr1 < nums.Length)
             {
-                if(nums[ptr1] != 0)
+                if (nums[ptr1] != 0)
                 {
                     var temp = nums[ptr1];
                     nums[ptr1] = nums[ptr2];
                     nums[ptr2] = temp;
-                    ptr1++;
                     ptr2++;
                 }
+                ptr1++;
             }
             return nums;
-        }   
+        }
     }
 }
