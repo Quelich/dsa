@@ -7,7 +7,7 @@ namespace SOLs.LinkedList
     {
         public int val;
         public Node next;
-        public Node prev;   
+        public Node prev;
 
         public Node(int val)
         {
@@ -19,10 +19,10 @@ namespace SOLs.LinkedList
 
     public class QLinkedList
     {
-
         /** Initialize your data structure here. */
         private Node head;
         private Node tail;
+
         public QLinkedList()
         {
             head = new Node(-1);
@@ -50,7 +50,6 @@ namespace SOLs.LinkedList
         /** Add a node of value val before the first element of the linked list. After the insertion, the new node will be the first node of the linked list. */
         public void AddAtHead(int val)
         {
-
             var nextNode = new Node(val) { next = head.next, prev = head };
             head.next = nextNode;
             nextNode.next.prev = nextNode;
@@ -74,7 +73,8 @@ namespace SOLs.LinkedList
                 p = p.next;
             }
 
-            if (i != index) return;
+            if (i != index)
+                return;
 
             var n = new Node(val) { prev = p, next = p.next };
             p.next = n;
